@@ -1,0 +1,145 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Realizacao should match a snapshot 1`] = `
+<section
+  className="Realizacao"
+>
+  <h2>
+    Realização
+  </h2>
+  <p>
+    O site Vota SP foi idealizado pela 
+    <a
+      href="http://www.minhacampinas.org.br"
+      target="_blank"
+    >
+      Minha Campinas
+    </a>
+    , uma organização que tem por objetivo buscar uma maior participação da população nas tomadas de decisão de interesse público da cidade.
+  </p>
+  <p>
+    Participaram da realização do projeto o 
+    <a
+      href="https://www.cmp.ifsp.edu.br/"
+      target="_blank"
+    >
+      Instituto Federal de São paulo campus Campinas
+    </a>
+     e o Front End Campinas: um grupo de programadores e programadoras independentes que utilizam tecnologia para a construção de um sociedade melhor.
+  </p>
+  <Picture
+    key="Amanda Yoshizumi"
+    name="Amanda Yoshizumi"
+    picture="test-file-stub"
+    role="UX Designer"
+  />
+  <Picture
+    key="Anderson Silva"
+    name="Anderson Silva"
+    picture="test-file-stub"
+    role="Developer"
+  />
+  <Picture
+    key="André Bordignon"
+    name="André Bordignon"
+    picture="test-file-stub"
+    role="IFSP"
+  />
+  <Picture
+    key="Bruno Wowk"
+    name="Bruno Wowk"
+    picture="test-file-stub"
+    role="Developer"
+  />
+  <Picture
+    key="Claudia Oliveira"
+    name="Claudia Oliveira"
+    picture="test-file-stub"
+    role="Minha Campinas"
+  />
+  <Picture
+    key="Eduardo Silva"
+    name="Eduardo Silva"
+    picture="test-file-stub"
+    role="Minha Campinas"
+  />
+  <Picture
+    key="Elisa Mueller"
+    name="Elisa Mueller"
+    picture="test-file-stub"
+    role="Minha Campinas"
+  />
+  <Picture
+    key="Gabriel Ribeiro"
+    name="Gabriel Ribeiro"
+    picture="test-file-stub"
+    role="Developer"
+  />
+  <Picture
+    key="Giulia Losnak"
+    name="Giulia Losnak"
+    picture="test-file-stub"
+    role="Jornalista"
+  />
+  <Picture
+    key="Guilherme Luchesi"
+    name="Guilherme Luchesi"
+    picture="test-file-stub"
+    role="Developer"
+  />
+  <Picture
+    key="Henrique Degrecci"
+    name="Henrique Degrecci"
+    picture="test-file-stub"
+    role="Developer"
+  />
+  <Picture
+    key="Juliana Patete"
+    name="Juliana Patete"
+    picture="test-file-stub"
+    role="Minha Campinas"
+  />
+  <Picture
+    key="Lai Xuancheng"
+    name="Lai Xuancheng"
+    picture="test-file-stub"
+    role="Developer"
+  />
+  <Picture
+    key="Lucas Guima"
+    name="Lucas Guima"
+    picture="test-file-stub"
+    role="Developer"
+  />
+  <Picture
+    key="Marcelo Nisida"
+    name="Marcelo Nisida"
+    picture="test-file-stub"
+    role="Midiólogo"
+  />
+  <Picture
+    key="Mathias Geno"
+    name="Mathias Geno"
+    picture="test-file-stub"
+    role="Developer"
+  />
+  <Picture
+    key="Vanessa Souza"
+    name="Vanessa Souza"
+    picture="test-file-stub"
+    role="Developer"
+  />
+  <Picture
+    key="Victor Miguez"
+    name="Victor Miguez"
+    picture="test-file-stub"
+    role="Developer"
+  />
+  <Picture
+    key="Vitor Perin"
+    name="Vitor Perin"
+    picture="test-file-stub"
+    role="Developer"
+  />
+</section>
+`;

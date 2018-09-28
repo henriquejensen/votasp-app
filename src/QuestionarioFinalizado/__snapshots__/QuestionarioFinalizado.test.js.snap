@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`QuestionarioFinalizado should match a snapshot 1`] = `
+<PageLayout>
+  <section>
+    <div
+      className="container welcome-text"
+    >
+      <h2>
+        <strong>
+          Obrigado por responder!
+        </strong>
+      </h2>
+      <p>
+        A partir de agora você aparecerá no ranking para todos os eleitores.
+      </p>
+    </div>
+  </section>
+</PageLayout>
+`;

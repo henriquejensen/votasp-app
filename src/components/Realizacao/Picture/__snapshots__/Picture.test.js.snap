@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Picture should match a snapshot 1`] = `
+<section
+  className="Picture"
+>
+  <img
+    src="test-file-stub"
+  />
+  <span>
+    Gabriel Ribeiro
+  </span>
+   
+  <br />
+  <span>
+    Developer
+  </span>
+</section>
+`;

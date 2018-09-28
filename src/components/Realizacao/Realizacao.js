@@ -23,7 +23,7 @@ import Vanessa from '../../img/realizacao/Vanessa.png';
 import VMiguez from '../../img/realizacao/VMiguez.png';
 import VPerin from '../../img/realizacao/VPerin.png';
 
-const realizacao = () => {
+const Realizacao = () => {
   const persons = [
     { name: 'Amanda Yoshizumi', picture: Amanda, role: 'UX Designer', altPicture: 'Foto da realizadora' },
     { name: 'Anderson Silva', picture: Anderson, role: 'Developer', altPicture: 'Foto da realizadora' },
@@ -72,4 +72,4 @@ const realizacao = () => {
   );
 }
 
-export default realizacao;
+export default Realizacao;

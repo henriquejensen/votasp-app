@@ -1,0 +1,130 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProgressBar should renders correctly when values exists and IS NOT sorted 1`] = `
+<div
+  className="progress-bar-container"
+>
+  <svg
+    className="view-port"
+    viewBox="-4 0 108 10"
+  >
+    <line
+      stroke="white"
+      strokeLinecap="round"
+      strokeWidth="4"
+      x1="0"
+      x2="100"
+      y1="5"
+      y2="5"
+    />
+    <line
+      className="fill-bar"
+      key="0"
+      stroke="green"
+      strokeLinecap="round"
+      strokeWidth="2"
+      x1="0"
+      x2={100}
+      y1="5"
+      y2="5"
+    />
+    <line
+      className="fill-bar"
+      key="1"
+      stroke="yellow"
+      strokeLinecap="round"
+      strokeWidth="2"
+      x1="0"
+      x2={50}
+      y1="5"
+      y2="5"
+    />
+    <line
+      className="fill-bar"
+      key="2"
+      stroke="red"
+      strokeLinecap="round"
+      strokeWidth="2"
+      x1="0"
+      x2={0}
+      y1="5"
+      y2="5"
+    />
+  </svg>
+</div>
+`;
+
+exports[`ProgressBar should renders correctly when values exists and IS sorted 1`] = `
+<div
+  className="progress-bar-container"
+>
+  <svg
+    className="view-port"
+    viewBox="-4 0 108 10"
+  >
+    <line
+      stroke="white"
+      strokeLinecap="round"
+      strokeWidth="4"
+      x1="0"
+      x2="100"
+      y1="5"
+      y2="5"
+    />
+    <line
+      className="fill-bar"
+      key="0"
+      stroke="green"
+      strokeLinecap="round"
+      strokeWidth="2"
+      x1="0"
+      x2={100}
+      y1="5"
+      y2="5"
+    />
+    <line
+      className="fill-bar"
+      key="1"
+      stroke="yellow"
+      strokeLinecap="round"
+      strokeWidth="2"
+      x1="0"
+      x2={50}
+      y1="5"
+      y2="5"
+    />
+    <line
+      className="fill-bar"
+      key="2"
+      stroke="red"
+      strokeLinecap="round"
+      strokeWidth="2"
+      x1="0"
+      x2={0}
+      y1="5"
+      y2="5"
+    />
+  </svg>
+</div>
+`;
+
+exports[`ProgressBar should renders correctly when values is undefined 1`] = `
+<div
+  className="progress-bar-container"
+>
+  <svg
+    className="view-port"
+    viewBox="-4 0 108 10"
+  >
+    <line
+      stroke="white"
+      strokeLinecap="round"
+      strokeWidth="4"
+      x1="0"
+      x2="100"
+      y1="5"
+      y2="5"
+    />
+  </svg>
+</div>
+`;

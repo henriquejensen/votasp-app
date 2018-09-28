@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CircleButton should match a snapshot 1`] = `
+<button
+  className="circle-button"
+  onClick={[MockFunction]}
+>
+  Hello World
+</button>
+`;
+
+exports[`CircleButton should render correctly wehn onClick is not passed 1`] = `
+<button
+  className="circle-button"
+  onClick={[Function]}
+>
+  Hello World
+</button>
+`;

@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LandingPage should match a snapshot 1`] = `
+<PageLayout>
+  <div
+    className="landing-page__projeto"
+  >
+    <div
+      className="landing-page__descricao container"
+    >
+      <h1>
+        O projeto
+      </h1>
+      <p>
+        O Vota SP é um site que vai ajudar a população do Estado de São Paulo escolher seus candidatos e candidatas a deputado, deputada estadual e federal.
+      </p>
+      <p>
+        Através de questões objetivas os eleitores podem verificar sua afinidade com os candidatos e candidatas. 
+        <strong>
+          É muito simples e prático!
+        </strong>
+      </p>
+    </div>
+    <div
+      className="como-funciona"
+    >
+      <Component />
+    </div>
+    <div
+      className="landing-page__call-to-action"
+    >
+      <NavLink
+        activeClassName="active"
+        aria-current="page"
+        className="btn btn-primary btn-lg"
+        to="/app/questionario/1"
+      >
+        Quero participar!
+      </NavLink>
+    </div>
+  </div>
+  <div
+    className="landing-page__realizacao"
+  >
+    <div
+      className="landing-page__descricao container"
+    >
+      <Realizacao />
+    </div>
+  </div>
+</PageLayout>
+`;

@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer should match a snapshot 1`] = `
+<footer
+  className="footer"
+>
+  <div
+    className="contato email tel"
+  >
+    <h4
+      className="bold upper"
+    >
+      Fale Conosco
+    </h4>
+    <a
+      href="mailto:contato@minhacampinas.org.br"
+    >
+      contato@minhacampinas.org.br
+    </a>
+    <br />
+    <a
+      href="tel:01925152252"
+    >
+      (19) 2515-2252
+    </a>
+  </div>
+  <div
+    className="ajude"
+  >
+    <h4
+      className="bold upper"
+    >
+      Ajude o projeto
+    </h4>
+    <a
+      className="contribua"
+      href="https://www.paypal-brasil.com.br/doe/doecompaypal?qc=&qn=Minha+&qs=25#minha-campinas"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      Contribua!
+    </a>
+  </div>
+  <div
+    className="realizacao"
+  >
+    <h4
+      className="bold upper"
+    >
+      Realização
+    </h4>
+    <a
+      href="http://www.minhacampinas.org.br"
+    >
+      <img
+        alt="Logo Minha Campinas"
+        src="test-file-stub"
+      />
+    </a>
+    <img
+      alt="Logo Front End Campinas"
+      src="test-file-stub"
+    />
+    <a
+      href="https://cmp.ifsp.edu.br/"
+    >
+      <img
+        alt="Logo do IFSP"
+        src="test-file-stub"
+      />
+    </a>
+  </div>
+</footer>
+`;

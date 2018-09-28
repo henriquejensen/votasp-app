@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PassosComoFunciona should match a snapshot 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="col-sm-12 col-md-6 col-lg-3"
+    >
+      <figure
+        className="passos passo1"
+      >
+        <img
+          alt="Icone do questionário"
+          className="icone"
+          src="test-file-stub"
+        />
+      </figure>
+      <p
+        className="bold"
+      >
+        Você responde um questionário de (no mínimo) 21 questões.
+      </p>
+    </div>
+    <div
+      className="col-sm-12 col-md-6 col-lg-3"
+    >
+      <figure
+        className="passos passo2"
+      >
+        <img
+          alt="Icone do cruzamento das suas respostas com as dos candidatos e candidatas."
+          className="icone"
+          src="test-file-stub"
+        />
+      </figure>
+      <p>
+        Nós cruzamos as suas respostas com os candidatos e candidatas cadastradas.
+      </p>
+    </div>
+    <div
+      className="col-sm-12 col-md-6 col-lg-3"
+    >
+      <figure
+        className="passos passo3"
+      >
+        <img
+          alt="Icone 3 dos candidatos com mais afinidade com você."
+          className="icone"
+          src="test-file-stub"
+        />
+      </figure>
+      <p>
+        Te informamos quem dos candidatos e candidatas pensam mais parecido com você.
+      </p>
+    </div>
+    <div
+      className="col-sm-12 col-md-6 col-lg-3"
+    >
+      <figure
+        className="passos passo4"
+      >
+        <img
+          alt="Icone 4. Você pode olhar as respostas de todos os candidatos e candidatas."
+          className="icone"
+          src="test-file-stub"
+        />
+      </figure>
+      <p>
+        Você pode olhar as respostas e perfil de todos eles e elas.
+      </p>
+    </div>
+  </div>
+</div>
+`;

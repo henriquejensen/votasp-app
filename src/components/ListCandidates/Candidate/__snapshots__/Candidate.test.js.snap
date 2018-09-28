@@ -1,0 +1,124 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Candidate should match a snapshot 1`] = `
+<div
+  className="deputado-list-item"
+>
+  <div
+    className="photo"
+  >
+    <img
+      alt="Foto do candidato Candidate Name"
+      src="http://via.placeholder.com/150x150?text=TEST"
+    />
+  </div>
+  <div
+    className="info"
+  >
+    <span
+      className="candidate-name"
+    >
+      Candidate Name
+    </span>
+    <span
+      className="candidate-number"
+    >
+      1234
+    </span>
+    <span
+      className="candidate-status bold green"
+    >
+      Cadastro Finalizado
+    </span>
+    <div>
+      <span
+        className="partido-name"
+      >
+        PARTY
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Candidate should render correctly with no picture passed 1`] = `
+<div
+  className="deputado-list-item"
+>
+  <div
+    className="photo"
+  >
+    <img
+      alt="Foto do candidato Candidate Name"
+      src="http://via.placeholder.com/150x150?text=Foto"
+    />
+  </div>
+  <div
+    className="info"
+  >
+    <span
+      className="candidate-name"
+    >
+      Candidate Name
+    </span>
+    <span
+      className="candidate-number"
+    >
+      1234
+    </span>
+    <span
+      className="candidate-status bold green"
+    >
+      Cadastro Finalizado
+    </span>
+    <div>
+      <span
+        className="partido-name"
+      >
+        PARTY
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Candidate should render correctly with no picture passed 2`] = `
+<div
+  className="deputado-list-item"
+>
+  <div
+    className="photo"
+  >
+    <img
+      alt="Foto do candidato Candidate Name"
+      src="http://via.placeholder.com/150x150?text=Foto"
+    />
+  </div>
+  <div
+    className="info"
+  >
+    <span
+      className="candidate-name"
+    >
+      Candidate Name
+    </span>
+    <span
+      className="candidate-number"
+    >
+      1234
+    </span>
+    <span
+      className="candidate-status bold red"
+    >
+      Cadastro em andamento
+    </span>
+    <div>
+      <span
+        className="partido-name"
+      >
+        PARTY
+      </span>
+    </div>
+  </div>
+</div>
+`;

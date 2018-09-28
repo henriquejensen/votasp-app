@@ -1,7 +1,7 @@
 import React from 'react';
 import './Candidate.scss';
 
-const candidate = ({
+const Candidate = ({
   name,
   number,
   politicalParty,
@@ -26,4 +26,4 @@ const candidate = ({
     </div>
   )
 
-export default candidate;
+export default Candidate;
