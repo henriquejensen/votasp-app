@@ -1,0 +1,137 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FormLayout should match a snapshot 1`] = `
+<section
+  className="authentication__form-layout"
+>
+  <div
+    className="complete-signup__background"
+  />
+  <div
+    className="authentication__form-wrapper"
+  >
+    <header
+      className="authentication__form-header"
+    >
+      <Link
+        replace={false}
+        to="/app"
+      >
+        <img
+          alt="Logotipo escrito Vota em branco e SP em amarelo."
+          className="logo"
+          src="test-file-stub"
+        />
+      </Link>
+    </header>
+    <div
+      className="authentication__tab-buttons"
+    />
+    <form>
+      <div
+        className="field-wrapper"
+      >
+        <label
+          htmlFor="password"
+        >
+          Senha
+        </label>
+        <input
+          className="input"
+          id="password"
+          name="password"
+          required={true}
+          type="password"
+        />
+      </div>
+      <button
+        className="authentication__submit-button"
+      >
+        Entrar
+      </button>
+    </form>
+  </div>
+</section>
+`;
+
+exports[`FormLayout should show errorMessage 1`] = `
+<section
+  className="authentication__form-layout"
+>
+  <div
+    className="complete-signup__background"
+  />
+  <div
+    className="authentication__form-wrapper"
+  >
+    <header
+      className="authentication__form-header"
+    >
+      <Link
+        replace={false}
+        to="/app"
+      >
+        <img
+          alt="Logotipo escrito Vota em branco e SP em amarelo."
+          className="logo"
+          src="test-file-stub"
+        />
+      </Link>
+    </header>
+    <div
+      className="authentication__tab-buttons"
+    />
+    <div
+      className="authentication__alert"
+    >
+      <div
+        className="alert alert-danger"
+        role="alert"
+      >
+        Error message
+      </div>
+    </div>
+  </div>
+</section>
+`;
+
+exports[`FormLayout should show successMessage 1`] = `
+<section
+  className="authentication__form-layout"
+>
+  <div
+    className="complete-signup__background"
+  />
+  <div
+    className="authentication__form-wrapper"
+  >
+    <header
+      className="authentication__form-header"
+    >
+      <Link
+        replace={false}
+        to="/app"
+      >
+        <img
+          alt="Logotipo escrito Vota em branco e SP em amarelo."
+          className="logo"
+          src="test-file-stub"
+        />
+      </Link>
+    </header>
+    <div
+      className="authentication__tab-buttons"
+    />
+    <div
+      className="authentication__alert"
+    >
+      <div
+        className="alert alert-success"
+        role="alert"
+      >
+        Success message
+      </div>
+    </div>
+  </div>
+</section>
+`;

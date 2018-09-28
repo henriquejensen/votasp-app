@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SigninForm should match a snapshot 1`] = `
+<FormLayout
+  activeTab="signin"
+  errorMessage={null}
+  showLoginPage={[MockFunction]}
+>
+  <form
+    onSubmit={[Function]}
+  >
+    <div
+      className="authentication__form-content"
+    >
+      <SocialLogin
+        updateErrorMessage={[Function]}
+      />
+      <p
+        className="authentication__separator"
+      >
+        ou
+      </p>
+      <div
+        className="field-wrapper"
+      >
+        <label
+          htmlFor="email"
+        >
+          E-mail
+        </label>
+        <input
+          className="input"
+          id="email"
+          name="email"
+          required={true}
+          type="text"
+        />
+      </div>
+      <div
+        className="field-wrapper"
+      >
+        <label
+          htmlFor="password"
+        >
+          Senha
+        </label>
+        <input
+          className="input"
+          id="password"
+          name="password"
+          required={true}
+          type="password"
+        />
+      </div>
+      <Link
+        replace={false}
+        to="/app/redefinepassword"
+      >
+        Esqueci minha senha
+      </Link>
+    </div>
+    <button
+      className="authentication__submit-button"
+    >
+      Entrar
+    </button>
+  </form>
+</FormLayout>
+`;

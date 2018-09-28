@@ -36,7 +36,13 @@
         "lines": 100,
         "statements": 100
       }
-    }
+    },
+    "modulePathIgnorePatterns": [
+      "src/firebaseSetup.js",
+      "src/index.js",
+      "src/redux/reducers.js",
+      "src/redux/store.js"
+    ]
   },
   "dependencies": {
     "axios": "^0.18.0",

@@ -1,0 +1,107 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer should match a snapshot 1`] = `
+<Fragment>
+  <Route
+    component={[Function]}
+    exact={true}
+    path="/"
+  />
+  <Route
+    component={[Function]}
+    exact={true}
+    path="/como-funciona"
+  />
+  <Route
+    component={[Function]}
+    exact={true}
+    path="/app/redefinepassword"
+  />
+  <Route
+    component={[Function]}
+    exact={true}
+    path="/questionario-finalizado"
+  />
+  <Route
+    component={[Function]}
+    exact={true}
+    path="/perfil/:id"
+  />
+  <Route
+    exact={true}
+    path="/app"
+    render={[Function]}
+  />
+  <Route
+    path="/app/questionario/:question"
+    render={[Function]}
+  />
+  <Route
+    exact={true}
+    path="/app/ranking"
+    render={[Function]}
+  />
+  <Route
+    exact={true}
+    path="/app/atualizar-informacoes"
+    render={[Function]}
+  />
+  <Route
+    path="/app/candidatos-e-candidatas"
+    render={[Function]}
+  />
+</Fragment>
+`;
+
+exports[`Footer should match a snapshot 2`] = `
+<Fragment>
+  <Route
+    component={[Function]}
+    exact={true}
+    path="/"
+  />
+  <Route
+    component={[Function]}
+    exact={true}
+    path="/como-funciona"
+  />
+  <Route
+    component={[Function]}
+    exact={true}
+    path="/app/redefinepassword"
+  />
+  <Route
+    component={[Function]}
+    exact={true}
+    path="/questionario-finalizado"
+  />
+  <Route
+    component={[Function]}
+    exact={true}
+    path="/perfil/:id"
+  />
+  <Route
+    exact={true}
+    path="/app"
+    render={[Function]}
+  />
+  <Route
+    path="/app/questionario/:question"
+    render={[Function]}
+  />
+  <Route
+    exact={true}
+    path="/app/ranking"
+    render={[Function]}
+  />
+  <Route
+    exact={true}
+    path="/app/atualizar-informacoes"
+    render={[Function]}
+  />
+  <Route
+    path="/app/candidatos-e-candidatas"
+    render={[Function]}
+  />
+</Fragment>
+`;

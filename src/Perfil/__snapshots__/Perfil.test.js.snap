@@ -1,0 +1,4205 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Perfil should match a snapshot 1`] = `
+<PageLayout>
+  <form
+    className="edit-profile container"
+    onSubmit={[Function]}
+  >
+    <h2>
+      Atualizar perfil
+    </h2>
+    <div
+      className="field-wrapper"
+    >
+      <label
+        htmlFor="name"
+      >
+        Nome
+      </label>
+      <input
+        autoFocus={true}
+        className="input"
+        id="name"
+        name="name"
+        onChange={[Function]}
+        required={true}
+        type="text"
+        value=""
+      />
+    </div>
+    <div
+      className="field-wrapper"
+    >
+      <label
+        htmlFor="city"
+      >
+        Cidade
+      </label>
+      <select
+        className="input"
+        id="city"
+        name="city"
+        onChange={[Function]}
+        value=""
+      >
+        <option
+          key="Adamantina"
+          value="Adamantina"
+        >
+          Adamantina
+        </option>
+        <option
+          key="Adolfo"
+          value="Adolfo"
+        >
+          Adolfo
+        </option>
+        <option
+          key="Aguai"
+          value="Aguai"
+        >
+          Aguai
+        </option>
+        <option
+          key="Aguas da Prata"
+          value="Aguas da Prata"
+        >
+          Aguas da Prata
+        </option>
+        <option
+          key="Aguas de Lindoia"
+          value="Aguas de Lindoia"
+        >
+          Aguas de Lindoia
+        </option>
+        <option
+          key="Aguas de Santa Barbara"
+          value="Aguas de Santa Barbara"
+        >
+          Aguas de Santa Barbara
+        </option>
+        <option
+          key="Aguas de Sao Pedro"
+          value="Aguas de Sao Pedro"
+        >
+          Aguas de Sao Pedro
+        </option>
+        <option
+          key="Agudos"
+          value="Agudos"
+        >
+          Agudos
+        </option>
+        <option
+          key="Alambari"
+          value="Alambari"
+        >
+          Alambari
+        </option>
+        <option
+          key="Alfredo Marcondes"
+          value="Alfredo Marcondes"
+        >
+          Alfredo Marcondes
+        </option>
+        <option
+          key="Altair"
+          value="Altair"
+        >
+          Altair
+        </option>
+        <option
+          key="Altinopolis"
+          value="Altinopolis"
+        >
+          Altinopolis
+        </option>
+        <option
+          key="Alto Alegre"
+          value="Alto Alegre"
+        >
+          Alto Alegre
+        </option>
+        <option
+          key="Aluminio"
+          value="Aluminio"
+        >
+          Aluminio
+        </option>
+        <option
+          key="Alvares Florence"
+          value="Alvares Florence"
+        >
+          Alvares Florence
+        </option>
+        <option
+          key="Alvares Machado"
+          value="Alvares Machado"
+        >
+          Alvares Machado
+        </option>
+        <option
+          key="Alvaro de Carvalho"
+          value="Alvaro de Carvalho"
+        >
+          Alvaro de Carvalho
+        </option>
+        <option
+          key="Alvinlandia"
+          value="Alvinlandia"
+        >
+          Alvinlandia
+        </option>
+        <option
+          key="Americana"
+          value="Americana"
+        >
+          Americana
+        </option>
+        <option
+          key="Americo Brasiliense"
+          value="Americo Brasiliense"
+        >
+          Americo Brasiliense
+        </option>
+        <option
+          key="Americo de Campos"
+          value="Americo de Campos"
+        >
+          Americo de Campos
+        </option>
+        <option
+          key="Amparo"
+          value="Amparo"
+        >
+          Amparo
+        </option>
+        <option
+          key="Analandia"
+          value="Analandia"
+        >
+          Analandia
+        </option>
+        <option
+          key="Andradina"
+          value="Andradina"
+        >
+          Andradina
+        </option>
+        <option
+          key="Angatuba"
+          value="Angatuba"
+        >
+          Angatuba
+        </option>
+        <option
+          key="Anhembi"
+          value="Anhembi"
+        >
+          Anhembi
+        </option>
+        <option
+          key="Anhumas"
+          value="Anhumas"
+        >
+          Anhumas
+        </option>
+        <option
+          key="Aparecida d'Oeste"
+          value="Aparecida d'Oeste"
+        >
+          Aparecida d'Oeste
+        </option>
+        <option
+          key="Aparecida"
+          value="Aparecida"
+        >
+          Aparecida
+        </option>
+        <option
+          key="Apiai"
+          value="Apiai"
+        >
+          Apiai
+        </option>
+        <option
+          key="Aracariguama"
+          value="Aracariguama"
+        >
+          Aracariguama
+        </option>
+        <option
+          key="Aracatuba"
+          value="Aracatuba"
+        >
+          Aracatuba
+        </option>
+        <option
+          key="Aracoiaba da Serra"
+          value="Aracoiaba da Serra"
+        >
+          Aracoiaba da Serra
+        </option>
+        <option
+          key="Aramina"
+          value="Aramina"
+        >
+          Aramina
+        </option>
+        <option
+          key="Arandu"
+          value="Arandu"
+        >
+          Arandu
+        </option>
+        <option
+          key="Arapei"
+          value="Arapei"
+        >
+          Arapei
+        </option>
+        <option
+          key="Araraquara"
+          value="Araraquara"
+        >
+          Araraquara
+        </option>
+        <option
+          key="Araras"
+          value="Araras"
+        >
+          Araras
+        </option>
+        <option
+          key="Arco-Iris"
+          value="Arco-Iris"
+        >
+          Arco-Iris
+        </option>
+        <option
+          key="Arealva"
+          value="Arealva"
+        >
+          Arealva
+        </option>
+        <option
+          key="Areias"
+          value="Areias"
+        >
+          Areias
+        </option>
+        <option
+          key="Areiopolis"
+          value="Areiopolis"
+        >
+          Areiopolis
+        </option>
+        <option
+          key="Ariranha"
+          value="Ariranha"
+        >
+          Ariranha
+        </option>
+        <option
+          key="Artur Nogueira"
+          value="Artur Nogueira"
+        >
+          Artur Nogueira
+        </option>
+        <option
+          key="Aruja"
+          value="Aruja"
+        >
+          Aruja
+        </option>
+        <option
+          key="Aspasia"
+          value="Aspasia"
+        >
+          Aspasia
+        </option>
+        <option
+          key="Assis"
+          value="Assis"
+        >
+          Assis
+        </option>
+        <option
+          key="Atibaia"
+          value="Atibaia"
+        >
+          Atibaia
+        </option>
+        <option
+          key="Auriflama"
+          value="Auriflama"
+        >
+          Auriflama
+        </option>
+        <option
+          key="Avai"
+          value="Avai"
+        >
+          Avai
+        </option>
+        <option
+          key="Avanhandava"
+          value="Avanhandava"
+        >
+          Avanhandava
+        </option>
+        <option
+          key="Avare"
+          value="Avare"
+        >
+          Avare
+        </option>
+        <option
+          key="Bady Bassitt"
+          value="Bady Bassitt"
+        >
+          Bady Bassitt
+        </option>
+        <option
+          key="Balbinos"
+          value="Balbinos"
+        >
+          Balbinos
+        </option>
+        <option
+          key="Balsamo"
+          value="Balsamo"
+        >
+          Balsamo
+        </option>
+        <option
+          key="Bananal"
+          value="Bananal"
+        >
+          Bananal
+        </option>
+        <option
+          key="Barao de Antonina"
+          value="Barao de Antonina"
+        >
+          Barao de Antonina
+        </option>
+        <option
+          key="Barbosa"
+          value="Barbosa"
+        >
+          Barbosa
+        </option>
+        <option
+          key="Bariri"
+          value="Bariri"
+        >
+          Bariri
+        </option>
+        <option
+          key="Barra Bonita"
+          value="Barra Bonita"
+        >
+          Barra Bonita
+        </option>
+        <option
+          key="Barra do Chapeu"
+          value="Barra do Chapeu"
+        >
+          Barra do Chapeu
+        </option>
+        <option
+          key="Barra do Turvo"
+          value="Barra do Turvo"
+        >
+          Barra do Turvo
+        </option>
+        <option
+          key="Barretos"
+          value="Barretos"
+        >
+          Barretos
+        </option>
+        <option
+          key="Barrinha"
+          value="Barrinha"
+        >
+          Barrinha
+        </option>
+        <option
+          key="Barueri"
+          value="Barueri"
+        >
+          Barueri
+        </option>
+        <option
+          key="Bastos"
+          value="Bastos"
+        >
+          Bastos
+        </option>
+        <option
+          key="Batatais"
+          value="Batatais"
+        >
+          Batatais
+        </option>
+        <option
+          key="Bauru"
+          value="Bauru"
+        >
+          Bauru
+        </option>
+        <option
+          key="Bebedouro"
+          value="Bebedouro"
+        >
+          Bebedouro
+        </option>
+        <option
+          key="Bento de Abreu"
+          value="Bento de Abreu"
+        >
+          Bento de Abreu
+        </option>
+        <option
+          key="Bernardino de Campos"
+          value="Bernardino de Campos"
+        >
+          Bernardino de Campos
+        </option>
+        <option
+          key="Bertioga"
+          value="Bertioga"
+        >
+          Bertioga
+        </option>
+        <option
+          key="Bilac"
+          value="Bilac"
+        >
+          Bilac
+        </option>
+        <option
+          key="Birigui"
+          value="Birigui"
+        >
+          Birigui
+        </option>
+        <option
+          key="Biritiba-Mirim"
+          value="Biritiba-Mirim"
+        >
+          Biritiba-Mirim
+        </option>
+        <option
+          key="Boa Esperanca do Sul"
+          value="Boa Esperanca do Sul"
+        >
+          Boa Esperanca do Sul
+        </option>
+        <option
+          key="Bocaina"
+          value="Bocaina"
+        >
+          Bocaina
+        </option>
+        <option
+          key="Bofete"
+          value="Bofete"
+        >
+          Bofete
+        </option>
+        <option
+          key="Boituva"
+          value="Boituva"
+        >
+          Boituva
+        </option>
+        <option
+          key="Bom Jesus dos Perdoes"
+          value="Bom Jesus dos Perdoes"
+        >
+          Bom Jesus dos Perdoes
+        </option>
+        <option
+          key="Bom Sucesso de Itarare"
+          value="Bom Sucesso de Itarare"
+        >
+          Bom Sucesso de Itarare
+        </option>
+        <option
+          key="Bora"
+          value="Bora"
+        >
+          Bora
+        </option>
+        <option
+          key="Boraceia"
+          value="Boraceia"
+        >
+          Boraceia
+        </option>
+        <option
+          key="Borborema"
+          value="Borborema"
+        >
+          Borborema
+        </option>
+        <option
+          key="Borebi"
+          value="Borebi"
+        >
+          Borebi
+        </option>
+        <option
+          key="Botucatu"
+          value="Botucatu"
+        >
+          Botucatu
+        </option>
+        <option
+          key="Braganca Paulista"
+          value="Braganca Paulista"
+        >
+          Braganca Paulista
+        </option>
+        <option
+          key="Brauna"
+          value="Brauna"
+        >
+          Brauna
+        </option>
+        <option
+          key="Brejo Alegre"
+          value="Brejo Alegre"
+        >
+          Brejo Alegre
+        </option>
+        <option
+          key="Brodosqui"
+          value="Brodosqui"
+        >
+          Brodosqui
+        </option>
+        <option
+          key="Brotas"
+          value="Brotas"
+        >
+          Brotas
+        </option>
+        <option
+          key="Buri"
+          value="Buri"
+        >
+          Buri
+        </option>
+        <option
+          key="Buritama"
+          value="Buritama"
+        >
+          Buritama
+        </option>
+        <option
+          key="Buritizal"
+          value="Buritizal"
+        >
+          Buritizal
+        </option>
+        <option
+          key="Cabralia Paulista"
+          value="Cabralia Paulista"
+        >
+          Cabralia Paulista
+        </option>
+        <option
+          key="Cabreuva"
+          value="Cabreuva"
+        >
+          Cabreuva
+        </option>
+        <option
+          key="Cacapava"
+          value="Cacapava"
+        >
+          Cacapava
+        </option>
+        <option
+          key="Cachoeira Paulista"
+          value="Cachoeira Paulista"
+        >
+          Cachoeira Paulista
+        </option>
+        <option
+          key="Caconde"
+          value="Caconde"
+        >
+          Caconde
+        </option>
+        <option
+          key="Cafelandia"
+          value="Cafelandia"
+        >
+          Cafelandia
+        </option>
+        <option
+          key="Caiabu"
+          value="Caiabu"
+        >
+          Caiabu
+        </option>
+        <option
+          key="Caieiras"
+          value="Caieiras"
+        >
+          Caieiras
+        </option>
+        <option
+          key="Caiua"
+          value="Caiua"
+        >
+          Caiua
+        </option>
+        <option
+          key="Cajamar"
+          value="Cajamar"
+        >
+          Cajamar
+        </option>
+        <option
+          key="Cajati"
+          value="Cajati"
+        >
+          Cajati
+        </option>
+        <option
+          key="Cajobi"
+          value="Cajobi"
+        >
+          Cajobi
+        </option>
+        <option
+          key="Cajuru"
+          value="Cajuru"
+        >
+          Cajuru
+        </option>
+        <option
+          key="Campina do Monte Alegre"
+          value="Campina do Monte Alegre"
+        >
+          Campina do Monte Alegre
+        </option>
+        <option
+          key="Campinas"
+          value="Campinas"
+        >
+          Campinas
+        </option>
+        <option
+          key="Campo Limpo Paulista"
+          value="Campo Limpo Paulista"
+        >
+          Campo Limpo Paulista
+        </option>
+        <option
+          key="Campos Novos Paulista"
+          value="Campos Novos Paulista"
+        >
+          Campos Novos Paulista
+        </option>
+        <option
+          key="Campos do Jordao"
+          value="Campos do Jordao"
+        >
+          Campos do Jordao
+        </option>
+        <option
+          key="Cananeia"
+          value="Cananeia"
+        >
+          Cananeia
+        </option>
+        <option
+          key="Canas"
+          value="Canas"
+        >
+          Canas
+        </option>
+        <option
+          key="Candido Mota"
+          value="Candido Mota"
+        >
+          Candido Mota
+        </option>
+        <option
+          key="Candido Rodrigues"
+          value="Candido Rodrigues"
+        >
+          Candido Rodrigues
+        </option>
+        <option
+          key="Canitar"
+          value="Canitar"
+        >
+          Canitar
+        </option>
+        <option
+          key="Capao Bonito"
+          value="Capao Bonito"
+        >
+          Capao Bonito
+        </option>
+        <option
+          key="Capela do Alto"
+          value="Capela do Alto"
+        >
+          Capela do Alto
+        </option>
+        <option
+          key="Capivari"
+          value="Capivari"
+        >
+          Capivari
+        </option>
+        <option
+          key="Caraguatatuba"
+          value="Caraguatatuba"
+        >
+          Caraguatatuba
+        </option>
+        <option
+          key="Carapicuiba"
+          value="Carapicuiba"
+        >
+          Carapicuiba
+        </option>
+        <option
+          key="Cardoso"
+          value="Cardoso"
+        >
+          Cardoso
+        </option>
+        <option
+          key="Casa Branca"
+          value="Casa Branca"
+        >
+          Casa Branca
+        </option>
+        <option
+          key="Cassia dos Coqueiros"
+          value="Cassia dos Coqueiros"
+        >
+          Cassia dos Coqueiros
+        </option>
+        <option
+          key="Castilho"
+          value="Castilho"
+        >
+          Castilho
+        </option>
+        <option
+          key="Catanduva"
+          value="Catanduva"
+        >
+          Catanduva
+        </option>
+        <option
+          key="Catigua"
+          value="Catigua"
+        >
+          Catigua
+        </option>
+        <option
+          key="Cedral"
+          value="Cedral"
+        >
+          Cedral
+        </option>
+        <option
+          key="Cerqueira Cesar"
+          value="Cerqueira Cesar"
+        >
+          Cerqueira Cesar
+        </option>
+        <option
+          key="Cerquilho"
+          value="Cerquilho"
+        >
+          Cerquilho
+        </option>
+        <option
+          key="Cesario Lange"
+          value="Cesario Lange"
+        >
+          Cesario Lange
+        </option>
+        <option
+          key="Charqueada"
+          value="Charqueada"
+        >
+          Charqueada
+        </option>
+        <option
+          key="Chavantes"
+          value="Chavantes"
+        >
+          Chavantes
+        </option>
+        <option
+          key="Clementina"
+          value="Clementina"
+        >
+          Clementina
+        </option>
+        <option
+          key="Colina"
+          value="Colina"
+        >
+          Colina
+        </option>
+        <option
+          key="Colombia"
+          value="Colombia"
+        >
+          Colombia
+        </option>
+        <option
+          key="Conchal"
+          value="Conchal"
+        >
+          Conchal
+        </option>
+        <option
+          key="Conchas"
+          value="Conchas"
+        >
+          Conchas
+        </option>
+        <option
+          key="Cordeiropolis"
+          value="Cordeiropolis"
+        >
+          Cordeiropolis
+        </option>
+        <option
+          key="Coroados"
+          value="Coroados"
+        >
+          Coroados
+        </option>
+        <option
+          key="Coronel Macedo"
+          value="Coronel Macedo"
+        >
+          Coronel Macedo
+        </option>
+        <option
+          key="Corumbatai"
+          value="Corumbatai"
+        >
+          Corumbatai
+        </option>
+        <option
+          key="Cosmopolis"
+          value="Cosmopolis"
+        >
+          Cosmopolis
+        </option>
+        <option
+          key="Cosmorama"
+          value="Cosmorama"
+        >
+          Cosmorama
+        </option>
+        <option
+          key="Cotia"
+          value="Cotia"
+        >
+          Cotia
+        </option>
+        <option
+          key="Cravinhos"
+          value="Cravinhos"
+        >
+          Cravinhos
+        </option>
+        <option
+          key="Cristais Paulista"
+          value="Cristais Paulista"
+        >
+          Cristais Paulista
+        </option>
+        <option
+          key="Cruzalia"
+          value="Cruzalia"
+        >
+          Cruzalia
+        </option>
+        <option
+          key="Cruzeiro"
+          value="Cruzeiro"
+        >
+          Cruzeiro
+        </option>
+        <option
+          key="Cubatao"
+          value="Cubatao"
+        >
+          Cubatao
+        </option>
+        <option
+          key="Cunha"
+          value="Cunha"
+        >
+          Cunha
+        </option>
+        <option
+          key="Descalvado"
+          value="Descalvado"
+        >
+          Descalvado
+        </option>
+        <option
+          key="Diadema"
+          value="Diadema"
+        >
+          Diadema
+        </option>
+        <option
+          key="Dirce Reis"
+          value="Dirce Reis"
+        >
+          Dirce Reis
+        </option>
+        <option
+          key="Divinolandia"
+          value="Divinolandia"
+        >
+          Divinolandia
+        </option>
+        <option
+          key="Dobrada"
+          value="Dobrada"
+        >
+          Dobrada
+        </option>
+        <option
+          key="Dois Corregos"
+          value="Dois Corregos"
+        >
+          Dois Corregos
+        </option>
+        <option
+          key="Dolcinopolis"
+          value="Dolcinopolis"
+        >
+          Dolcinopolis
+        </option>
+        <option
+          key="Dourado"
+          value="Dourado"
+        >
+          Dourado
+        </option>
+        <option
+          key="Dracena"
+          value="Dracena"
+        >
+          Dracena
+        </option>
+        <option
+          key="Duartina"
+          value="Duartina"
+        >
+          Duartina
+        </option>
+        <option
+          key="Dumont"
+          value="Dumont"
+        >
+          Dumont
+        </option>
+        <option
+          key="Echapora"
+          value="Echapora"
+        >
+          Echapora
+        </option>
+        <option
+          key="Eldorado"
+          value="Eldorado"
+        >
+          Eldorado
+        </option>
+        <option
+          key="Elias Fausto"
+          value="Elias Fausto"
+        >
+          Elias Fausto
+        </option>
+        <option
+          key="Elisiario"
+          value="Elisiario"
+        >
+          Elisiario
+        </option>
+        <option
+          key="Embauba"
+          value="Embauba"
+        >
+          Embauba
+        </option>
+        <option
+          key="Embu"
+          value="Embu"
+        >
+          Embu
+        </option>
+        <option
+          key="Embu-Guacu"
+          value="Embu-Guacu"
+        >
+          Embu-Guacu
+        </option>
+        <option
+          key="Emilianopolis"
+          value="Emilianopolis"
+        >
+          Emilianopolis
+        </option>
+        <option
+          key="Engenheiro Coelho"
+          value="Engenheiro Coelho"
+        >
+          Engenheiro Coelho
+        </option>
+        <option
+          key="Espirito Santo do Pinhal"
+          value="Espirito Santo do Pinhal"
+        >
+          Espirito Santo do Pinhal
+        </option>
+        <option
+          key="Espirito Santo do Turvo"
+          value="Espirito Santo do Turvo"
+        >
+          Espirito Santo do Turvo
+        </option>
+        <option
+          key="Estiva Gerbi"
+          value="Estiva Gerbi"
+        >
+          Estiva Gerbi
+        </option>
+        <option
+          key="Estrela d'Oeste"
+          value="Estrela d'Oeste"
+        >
+          Estrela d'Oeste
+        </option>
+        <option
+          key="Estrela do Norte"
+          value="Estrela do Norte"
+        >
+          Estrela do Norte
+        </option>
+        <option
+          key="Euclides da Cunha Paulista"
+          value="Euclides da Cunha Paulista"
+        >
+          Euclides da Cunha Paulista
+        </option>
+        <option
+          key="Fartura"
+          value="Fartura"
+        >
+          Fartura
+        </option>
+        <option
+          key="Fernando Prestes"
+          value="Fernando Prestes"
+        >
+          Fernando Prestes
+        </option>
+        <option
+          key="Fernandopolis"
+          value="Fernandopolis"
+        >
+          Fernandopolis
+        </option>
+        <option
+          key="Fernao"
+          value="Fernao"
+        >
+          Fernao
+        </option>
+        <option
+          key="Ferraz de Vasconcelos"
+          value="Ferraz de Vasconcelos"
+        >
+          Ferraz de Vasconcelos
+        </option>
+        <option
+          key="Flora Rica"
+          value="Flora Rica"
+        >
+          Flora Rica
+        </option>
+        <option
+          key="Floreal"
+          value="Floreal"
+        >
+          Floreal
+        </option>
+        <option
+          key="Florida Paulista"
+          value="Florida Paulista"
+        >
+          Florida Paulista
+        </option>
+        <option
+          key="Florinia"
+          value="Florinia"
+        >
+          Florinia
+        </option>
+        <option
+          key="Franca"
+          value="Franca"
+        >
+          Franca
+        </option>
+        <option
+          key="Francisco Morato"
+          value="Francisco Morato"
+        >
+          Francisco Morato
+        </option>
+        <option
+          key="Franco da Rocha"
+          value="Franco da Rocha"
+        >
+          Franco da Rocha
+        </option>
+        <option
+          key="Gabriel Monteiro"
+          value="Gabriel Monteiro"
+        >
+          Gabriel Monteiro
+        </option>
+        <option
+          key="Galia"
+          value="Galia"
+        >
+          Galia
+        </option>
+        <option
+          key="Garca"
+          value="Garca"
+        >
+          Garca
+        </option>
+        <option
+          key="Gastao Vidigal"
+          value="Gastao Vidigal"
+        >
+          Gastao Vidigal
+        </option>
+        <option
+          key="Gaviao Peixoto"
+          value="Gaviao Peixoto"
+        >
+          Gaviao Peixoto
+        </option>
+        <option
+          key="General Salgado"
+          value="General Salgado"
+        >
+          General Salgado
+        </option>
+        <option
+          key="Getulina"
+          value="Getulina"
+        >
+          Getulina
+        </option>
+        <option
+          key="Glicerio"
+          value="Glicerio"
+        >
+          Glicerio
+        </option>
+        <option
+          key="Guaicara"
+          value="Guaicara"
+        >
+          Guaicara
+        </option>
+        <option
+          key="Guaimbe"
+          value="Guaimbe"
+        >
+          Guaimbe
+        </option>
+        <option
+          key="Guaira"
+          value="Guaira"
+        >
+          Guaira
+        </option>
+        <option
+          key="Guapiacu"
+          value="Guapiacu"
+        >
+          Guapiacu
+        </option>
+        <option
+          key="Guapiara"
+          value="Guapiara"
+        >
+          Guapiara
+        </option>
+        <option
+          key="Guara"
+          value="Guara"
+        >
+          Guara
+        </option>
+        <option
+          key="Guaracai"
+          value="Guaracai"
+        >
+          Guaracai
+        </option>
+        <option
+          key="Guaraci"
+          value="Guaraci"
+        >
+          Guaraci
+        </option>
+        <option
+          key="Guarani d'Oeste"
+          value="Guarani d'Oeste"
+        >
+          Guarani d'Oeste
+        </option>
+        <option
+          key="Guaranta"
+          value="Guaranta"
+        >
+          Guaranta
+        </option>
+        <option
+          key="Guararapes"
+          value="Guararapes"
+        >
+          Guararapes
+        </option>
+        <option
+          key="Guararema"
+          value="Guararema"
+        >
+          Guararema
+        </option>
+        <option
+          key="Guaratingueta"
+          value="Guaratingueta"
+        >
+          Guaratingueta
+        </option>
+        <option
+          key="Guarei"
+          value="Guarei"
+        >
+          Guarei
+        </option>
+        <option
+          key="Guariba"
+          value="Guariba"
+        >
+          Guariba
+        </option>
+        <option
+          key="Guaruja"
+          value="Guaruja"
+        >
+          Guaruja
+        </option>
+        <option
+          key="Guarulhos"
+          value="Guarulhos"
+        >
+          Guarulhos
+        </option>
+        <option
+          key="Guatapara"
+          value="Guatapara"
+        >
+          Guatapara
+        </option>
+        <option
+          key="Guzolandia"
+          value="Guzolandia"
+        >
+          Guzolandia
+        </option>
+        <option
+          key="Herculandia"
+          value="Herculandia"
+        >
+          Herculandia
+        </option>
+        <option
+          key="Holambra"
+          value="Holambra"
+        >
+          Holambra
+        </option>
+        <option
+          key="Hortolandia"
+          value="Hortolandia"
+        >
+          Hortolandia
+        </option>
+        <option
+          key="Iacanga"
+          value="Iacanga"
+        >
+          Iacanga
+        </option>
+        <option
+          key="Iacri"
+          value="Iacri"
+        >
+          Iacri
+        </option>
+        <option
+          key="Iaras"
+          value="Iaras"
+        >
+          Iaras
+        </option>
+        <option
+          key="Ibate"
+          value="Ibate"
+        >
+          Ibate
+        </option>
+        <option
+          key="Ibira"
+          value="Ibira"
+        >
+          Ibira
+        </option>
+        <option
+          key="Ibirarema"
+          value="Ibirarema"
+        >
+          Ibirarema
+        </option>
+        <option
+          key="Ibitinga"
+          value="Ibitinga"
+        >
+          Ibitinga
+        </option>
+        <option
+          key="Ibiuna"
+          value="Ibiuna"
+        >
+          Ibiuna
+        </option>
+        <option
+          key="Icem"
+          value="Icem"
+        >
+          Icem
+        </option>
+        <option
+          key="Iepe"
+          value="Iepe"
+        >
+          Iepe
+        </option>
+        <option
+          key="Igaracu do Tiete"
+          value="Igaracu do Tiete"
+        >
+          Igaracu do Tiete
+        </option>
+        <option
+          key="Igarapava"
+          value="Igarapava"
+        >
+          Igarapava
+        </option>
+        <option
+          key="Igarata"
+          value="Igarata"
+        >
+          Igarata
+        </option>
+        <option
+          key="Iguape"
+          value="Iguape"
+        >
+          Iguape
+        </option>
+        <option
+          key="Ilha Comprida"
+          value="Ilha Comprida"
+        >
+          Ilha Comprida
+        </option>
+        <option
+          key="Ilha Solteira"
+          value="Ilha Solteira"
+        >
+          Ilha Solteira
+        </option>
+        <option
+          key="Ilhabela"
+          value="Ilhabela"
+        >
+          Ilhabela
+        </option>
+        <option
+          key="Indaiatuba"
+          value="Indaiatuba"
+        >
+          Indaiatuba
+        </option>
+        <option
+          key="Indiana"
+          value="Indiana"
+        >
+          Indiana
+        </option>
+        <option
+          key="Indiapora"
+          value="Indiapora"
+        >
+          Indiapora
+        </option>
+        <option
+          key="Inubia Paulista"
+          value="Inubia Paulista"
+        >
+          Inubia Paulista
+        </option>
+        <option
+          key="Ipaucu"
+          value="Ipaucu"
+        >
+          Ipaucu
+        </option>
+        <option
+          key="Ipero"
+          value="Ipero"
+        >
+          Ipero
+        </option>
+        <option
+          key="Ipeuna"
+          value="Ipeuna"
+        >
+          Ipeuna
+        </option>
+        <option
+          key="Ipigua"
+          value="Ipigua"
+        >
+          Ipigua
+        </option>
+        <option
+          key="Iporanga"
+          value="Iporanga"
+        >
+          Iporanga
+        </option>
+        <option
+          key="Ipua"
+          value="Ipua"
+        >
+          Ipua
+        </option>
+        <option
+          key="Iracemapolis"
+          value="Iracemapolis"
+        >
+          Iracemapolis
+        </option>
+        <option
+          key="Irapua"
+          value="Irapua"
+        >
+          Irapua
+        </option>
+        <option
+          key="Irapuru"
+          value="Irapuru"
+        >
+          Irapuru
+        </option>
+        <option
+          key="Itabera"
+          value="Itabera"
+        >
+          Itabera
+        </option>
+        <option
+          key="Itai"
+          value="Itai"
+        >
+          Itai
+        </option>
+        <option
+          key="Itajobi"
+          value="Itajobi"
+        >
+          Itajobi
+        </option>
+        <option
+          key="Itaju"
+          value="Itaju"
+        >
+          Itaju
+        </option>
+        <option
+          key="Itanhaem"
+          value="Itanhaem"
+        >
+          Itanhaem
+        </option>
+        <option
+          key="Itaoca"
+          value="Itaoca"
+        >
+          Itaoca
+        </option>
+        <option
+          key="Itapecerica da Serra"
+          value="Itapecerica da Serra"
+        >
+          Itapecerica da Serra
+        </option>
+        <option
+          key="Itapetininga"
+          value="Itapetininga"
+        >
+          Itapetininga
+        </option>
+        <option
+          key="Itapeva"
+          value="Itapeva"
+        >
+          Itapeva
+        </option>
+        <option
+          key="Itapevi"
+          value="Itapevi"
+        >
+          Itapevi
+        </option>
+        <option
+          key="Itapira"
+          value="Itapira"
+        >
+          Itapira
+        </option>
+        <option
+          key="Itapirapua Paulista"
+          value="Itapirapua Paulista"
+        >
+          Itapirapua Paulista
+        </option>
+        <option
+          key="Itapolis"
+          value="Itapolis"
+        >
+          Itapolis
+        </option>
+        <option
+          key="Itaporanga"
+          value="Itaporanga"
+        >
+          Itaporanga
+        </option>
+        <option
+          key="Itapui"
+          value="Itapui"
+        >
+          Itapui
+        </option>
+        <option
+          key="Itapura"
+          value="Itapura"
+        >
+          Itapura
+        </option>
+        <option
+          key="Itaquaquecetuba"
+          value="Itaquaquecetuba"
+        >
+          Itaquaquecetuba
+        </option>
+        <option
+          key="Itarare"
+          value="Itarare"
+        >
+          Itarare
+        </option>
+        <option
+          key="Itariri"
+          value="Itariri"
+        >
+          Itariri
+        </option>
+        <option
+          key="Itatiba"
+          value="Itatiba"
+        >
+          Itatiba
+        </option>
+        <option
+          key="Itatinga"
+          value="Itatinga"
+        >
+          Itatinga
+        </option>
+        <option
+          key="Itirapina"
+          value="Itirapina"
+        >
+          Itirapina
+        </option>
+        <option
+          key="Itirapua"
+          value="Itirapua"
+        >
+          Itirapua
+        </option>
+        <option
+          key="Itobi"
+          value="Itobi"
+        >
+          Itobi
+        </option>
+        <option
+          key="Itu"
+          value="Itu"
+        >
+          Itu
+        </option>
+        <option
+          key="Itupeva"
+          value="Itupeva"
+        >
+          Itupeva
+        </option>
+        <option
+          key="Ituverava"
+          value="Ituverava"
+        >
+          Ituverava
+        </option>
+        <option
+          key="Jaborandi"
+          value="Jaborandi"
+        >
+          Jaborandi
+        </option>
+        <option
+          key="Jaboticabal"
+          value="Jaboticabal"
+        >
+          Jaboticabal
+        </option>
+        <option
+          key="Jacarei"
+          value="Jacarei"
+        >
+          Jacarei
+        </option>
+        <option
+          key="Jaci"
+          value="Jaci"
+        >
+          Jaci
+        </option>
+        <option
+          key="Jacupiranga"
+          value="Jacupiranga"
+        >
+          Jacupiranga
+        </option>
+        <option
+          key="Jaguariuna"
+          value="Jaguariuna"
+        >
+          Jaguariuna
+        </option>
+        <option
+          key="Jales"
+          value="Jales"
+        >
+          Jales
+        </option>
+        <option
+          key="Jambeiro"
+          value="Jambeiro"
+        >
+          Jambeiro
+        </option>
+        <option
+          key="Jandira"
+          value="Jandira"
+        >
+          Jandira
+        </option>
+        <option
+          key="Jardinopolis"
+          value="Jardinopolis"
+        >
+          Jardinopolis
+        </option>
+        <option
+          key="Jarinu"
+          value="Jarinu"
+        >
+          Jarinu
+        </option>
+        <option
+          key="Jau"
+          value="Jau"
+        >
+          Jau
+        </option>
+        <option
+          key="Jeriquara"
+          value="Jeriquara"
+        >
+          Jeriquara
+        </option>
+        <option
+          key="Joanopolis"
+          value="Joanopolis"
+        >
+          Joanopolis
+        </option>
+        <option
+          key="Joao Ramalho"
+          value="Joao Ramalho"
+        >
+          Joao Ramalho
+        </option>
+        <option
+          key="Jose Bonifacio"
+          value="Jose Bonifacio"
+        >
+          Jose Bonifacio
+        </option>
+        <option
+          key="Julio Mesquita"
+          value="Julio Mesquita"
+        >
+          Julio Mesquita
+        </option>
+        <option
+          key="Jumirim"
+          value="Jumirim"
+        >
+          Jumirim
+        </option>
+        <option
+          key="Jundiai"
+          value="Jundiai"
+        >
+          Jundiai
+        </option>
+        <option
+          key="Junqueiropolis"
+          value="Junqueiropolis"
+        >
+          Junqueiropolis
+        </option>
+        <option
+          key="Juquia"
+          value="Juquia"
+        >
+          Juquia
+        </option>
+        <option
+          key="Juquitiba"
+          value="Juquitiba"
+        >
+          Juquitiba
+        </option>
+        <option
+          key="Lagoinha"
+          value="Lagoinha"
+        >
+          Lagoinha
+        </option>
+        <option
+          key="Laranjal Paulista"
+          value="Laranjal Paulista"
+        >
+          Laranjal Paulista
+        </option>
+        <option
+          key="Lavinia"
+          value="Lavinia"
+        >
+          Lavinia
+        </option>
+        <option
+          key="Lavrinhas"
+          value="Lavrinhas"
+        >
+          Lavrinhas
+        </option>
+        <option
+          key="Leme"
+          value="Leme"
+        >
+          Leme
+        </option>
+        <option
+          key="Lencois Paulista"
+          value="Lencois Paulista"
+        >
+          Lencois Paulista
+        </option>
+        <option
+          key="Limeira"
+          value="Limeira"
+        >
+          Limeira
+        </option>
+        <option
+          key="Lindoia"
+          value="Lindoia"
+        >
+          Lindoia
+        </option>
+        <option
+          key="Lins"
+          value="Lins"
+        >
+          Lins
+        </option>
+        <option
+          key="Lorena"
+          value="Lorena"
+        >
+          Lorena
+        </option>
+        <option
+          key="Lourdes"
+          value="Lourdes"
+        >
+          Lourdes
+        </option>
+        <option
+          key="Louveira"
+          value="Louveira"
+        >
+          Louveira
+        </option>
+        <option
+          key="Lucelia"
+          value="Lucelia"
+        >
+          Lucelia
+        </option>
+        <option
+          key="Lucianopolis"
+          value="Lucianopolis"
+        >
+          Lucianopolis
+        </option>
+        <option
+          key="Luis Antonio"
+          value="Luis Antonio"
+        >
+          Luis Antonio
+        </option>
+        <option
+          key="Luiziania"
+          value="Luiziania"
+        >
+          Luiziania
+        </option>
+        <option
+          key="Lupercio"
+          value="Lupercio"
+        >
+          Lupercio
+        </option>
+        <option
+          key="Lutecia"
+          value="Lutecia"
+        >
+          Lutecia
+        </option>
+        <option
+          key="Macatuba"
+          value="Macatuba"
+        >
+          Macatuba
+        </option>
+        <option
+          key="Macaubal"
+          value="Macaubal"
+        >
+          Macaubal
+        </option>
+        <option
+          key="Macedonia"
+          value="Macedonia"
+        >
+          Macedonia
+        </option>
+        <option
+          key="Magda"
+          value="Magda"
+        >
+          Magda
+        </option>
+        <option
+          key="Mairinque"
+          value="Mairinque"
+        >
+          Mairinque
+        </option>
+        <option
+          key="Mairipora"
+          value="Mairipora"
+        >
+          Mairipora
+        </option>
+        <option
+          key="Manduri"
+          value="Manduri"
+        >
+          Manduri
+        </option>
+        <option
+          key="Maraba Paulista"
+          value="Maraba Paulista"
+        >
+          Maraba Paulista
+        </option>
+        <option
+          key="Maracai"
+          value="Maracai"
+        >
+          Maracai
+        </option>
+        <option
+          key="Marapoama"
+          value="Marapoama"
+        >
+          Marapoama
+        </option>
+        <option
+          key="Mariapolis"
+          value="Mariapolis"
+        >
+          Mariapolis
+        </option>
+        <option
+          key="Marilia"
+          value="Marilia"
+        >
+          Marilia
+        </option>
+        <option
+          key="Marinopolis"
+          value="Marinopolis"
+        >
+          Marinopolis
+        </option>
+        <option
+          key="Martinopolis"
+          value="Martinopolis"
+        >
+          Martinopolis
+        </option>
+        <option
+          key="Matao"
+          value="Matao"
+        >
+          Matao
+        </option>
+        <option
+          key="Maua"
+          value="Maua"
+        >
+          Maua
+        </option>
+        <option
+          key="Mendonca"
+          value="Mendonca"
+        >
+          Mendonca
+        </option>
+        <option
+          key="Meridiano"
+          value="Meridiano"
+        >
+          Meridiano
+        </option>
+        <option
+          key="Mesopolis"
+          value="Mesopolis"
+        >
+          Mesopolis
+        </option>
+        <option
+          key="Miguelopolis"
+          value="Miguelopolis"
+        >
+          Miguelopolis
+        </option>
+        <option
+          key="Mineiros do Tiete"
+          value="Mineiros do Tiete"
+        >
+          Mineiros do Tiete
+        </option>
+        <option
+          key="Mira Estrela"
+          value="Mira Estrela"
+        >
+          Mira Estrela
+        </option>
+        <option
+          key="Miracatu"
+          value="Miracatu"
+        >
+          Miracatu
+        </option>
+        <option
+          key="Mirandopolis"
+          value="Mirandopolis"
+        >
+          Mirandopolis
+        </option>
+        <option
+          key="Mirante do Paranapanema"
+          value="Mirante do Paranapanema"
+        >
+          Mirante do Paranapanema
+        </option>
+        <option
+          key="Mirassol"
+          value="Mirassol"
+        >
+          Mirassol
+        </option>
+        <option
+          key="Mirassolandia"
+          value="Mirassolandia"
+        >
+          Mirassolandia
+        </option>
+        <option
+          key="Mococa"
+          value="Mococa"
+        >
+          Mococa
+        </option>
+        <option
+          key="Mogi Guacu"
+          value="Mogi Guacu"
+        >
+          Mogi Guacu
+        </option>
+        <option
+          key="Moji das Cruzes"
+          value="Moji das Cruzes"
+        >
+          Moji das Cruzes
+        </option>
+        <option
+          key="Moji-Mirim"
+          value="Moji-Mirim"
+        >
+          Moji-Mirim
+        </option>
+        <option
+          key="Mombuca"
+          value="Mombuca"
+        >
+          Mombuca
+        </option>
+        <option
+          key="Moncoes"
+          value="Moncoes"
+        >
+          Moncoes
+        </option>
+        <option
+          key="Mongagua"
+          value="Mongagua"
+        >
+          Mongagua
+        </option>
+        <option
+          key="Monte Alegre do Sul"
+          value="Monte Alegre do Sul"
+        >
+          Monte Alegre do Sul
+        </option>
+        <option
+          key="Monte Alto"
+          value="Monte Alto"
+        >
+          Monte Alto
+        </option>
+        <option
+          key="Monte Aprazivel"
+          value="Monte Aprazivel"
+        >
+          Monte Aprazivel
+        </option>
+        <option
+          key="Monte Azul Paulista"
+          value="Monte Azul Paulista"
+        >
+          Monte Azul Paulista
+        </option>
+        <option
+          key="Monte Castelo"
+          value="Monte Castelo"
+        >
+          Monte Castelo
+        </option>
+        <option
+          key="Monte Mor"
+          value="Monte Mor"
+        >
+          Monte Mor
+        </option>
+        <option
+          key="Monteiro Lobato"
+          value="Monteiro Lobato"
+        >
+          Monteiro Lobato
+        </option>
+        <option
+          key="Morro Agudo"
+          value="Morro Agudo"
+        >
+          Morro Agudo
+        </option>
+        <option
+          key="Morungaba"
+          value="Morungaba"
+        >
+          Morungaba
+        </option>
+        <option
+          key="Motuca"
+          value="Motuca"
+        >
+          Motuca
+        </option>
+        <option
+          key="Murutinga do Sul"
+          value="Murutinga do Sul"
+        >
+          Murutinga do Sul
+        </option>
+        <option
+          key="Nantes"
+          value="Nantes"
+        >
+          Nantes
+        </option>
+        <option
+          key="Narandiba"
+          value="Narandiba"
+        >
+          Narandiba
+        </option>
+        <option
+          key="Natividade da Serra"
+          value="Natividade da Serra"
+        >
+          Natividade da Serra
+        </option>
+        <option
+          key="Nazare Paulista"
+          value="Nazare Paulista"
+        >
+          Nazare Paulista
+        </option>
+        <option
+          key="Neves Paulista"
+          value="Neves Paulista"
+        >
+          Neves Paulista
+        </option>
+        <option
+          key="Nhandeara"
+          value="Nhandeara"
+        >
+          Nhandeara
+        </option>
+        <option
+          key="Nipoa"
+          value="Nipoa"
+        >
+          Nipoa
+        </option>
+        <option
+          key="Nova Alianca"
+          value="Nova Alianca"
+        >
+          Nova Alianca
+        </option>
+        <option
+          key="Nova Campina"
+          value="Nova Campina"
+        >
+          Nova Campina
+        </option>
+        <option
+          key="Nova Canaa Paulista"
+          value="Nova Canaa Paulista"
+        >
+          Nova Canaa Paulista
+        </option>
+        <option
+          key="Nova Castilho"
+          value="Nova Castilho"
+        >
+          Nova Castilho
+        </option>
+        <option
+          key="Nova Europa"
+          value="Nova Europa"
+        >
+          Nova Europa
+        </option>
+        <option
+          key="Nova Granada"
+          value="Nova Granada"
+        >
+          Nova Granada
+        </option>
+        <option
+          key="Nova Guataporanga"
+          value="Nova Guataporanga"
+        >
+          Nova Guataporanga
+        </option>
+        <option
+          key="Nova Independencia"
+          value="Nova Independencia"
+        >
+          Nova Independencia
+        </option>
+        <option
+          key="Nova Luzitania"
+          value="Nova Luzitania"
+        >
+          Nova Luzitania
+        </option>
+        <option
+          key="Nova Odessa"
+          value="Nova Odessa"
+        >
+          Nova Odessa
+        </option>
+        <option
+          key="Novais"
+          value="Novais"
+        >
+          Novais
+        </option>
+        <option
+          key="Novo Horizonte"
+          value="Novo Horizonte"
+        >
+          Novo Horizonte
+        </option>
+        <option
+          key="Nuporanga"
+          value="Nuporanga"
+        >
+          Nuporanga
+        </option>
+        <option
+          key="Ocaucu"
+          value="Ocaucu"
+        >
+          Ocaucu
+        </option>
+        <option
+          key="Oleo"
+          value="Oleo"
+        >
+          Oleo
+        </option>
+        <option
+          key="Olimpia"
+          value="Olimpia"
+        >
+          Olimpia
+        </option>
+        <option
+          key="Onda Verde"
+          value="Onda Verde"
+        >
+          Onda Verde
+        </option>
+        <option
+          key="Oriente"
+          value="Oriente"
+        >
+          Oriente
+        </option>
+        <option
+          key="Orindiuva"
+          value="Orindiuva"
+        >
+          Orindiuva
+        </option>
+        <option
+          key="Orlandia"
+          value="Orlandia"
+        >
+          Orlandia
+        </option>
+        <option
+          key="Osasco"
+          value="Osasco"
+        >
+          Osasco
+        </option>
+        <option
+          key="Oscar Bressane"
+          value="Oscar Bressane"
+        >
+          Oscar Bressane
+        </option>
+        <option
+          key="Osvaldo Cruz"
+          value="Osvaldo Cruz"
+        >
+          Osvaldo Cruz
+        </option>
+        <option
+          key="Ourinhos"
+          value="Ourinhos"
+        >
+          Ourinhos
+        </option>
+        <option
+          key="Ouro Verde"
+          value="Ouro Verde"
+        >
+          Ouro Verde
+        </option>
+        <option
+          key="Ouroeste"
+          value="Ouroeste"
+        >
+          Ouroeste
+        </option>
+        <option
+          key="Pacaembu"
+          value="Pacaembu"
+        >
+          Pacaembu
+        </option>
+        <option
+          key="Palestina"
+          value="Palestina"
+        >
+          Palestina
+        </option>
+        <option
+          key="Palmares Paulista"
+          value="Palmares Paulista"
+        >
+          Palmares Paulista
+        </option>
+        <option
+          key="Palmeira d'Oeste"
+          value="Palmeira d'Oeste"
+        >
+          Palmeira d'Oeste
+        </option>
+        <option
+          key="Palmital"
+          value="Palmital"
+        >
+          Palmital
+        </option>
+        <option
+          key="Panorama"
+          value="Panorama"
+        >
+          Panorama
+        </option>
+        <option
+          key="Paraguacu Paulista"
+          value="Paraguacu Paulista"
+        >
+          Paraguacu Paulista
+        </option>
+        <option
+          key="Paraibuna"
+          value="Paraibuna"
+        >
+          Paraibuna
+        </option>
+        <option
+          key="Paraiso"
+          value="Paraiso"
+        >
+          Paraiso
+        </option>
+        <option
+          key="Paranapanema"
+          value="Paranapanema"
+        >
+          Paranapanema
+        </option>
+        <option
+          key="Paranapua"
+          value="Paranapua"
+        >
+          Paranapua
+        </option>
+        <option
+          key="Parapua"
+          value="Parapua"
+        >
+          Parapua
+        </option>
+        <option
+          key="Pardinho"
+          value="Pardinho"
+        >
+          Pardinho
+        </option>
+        <option
+          key="Pariquera-Acu"
+          value="Pariquera-Acu"
+        >
+          Pariquera-Acu
+        </option>
+        <option
+          key="Parisi"
+          value="Parisi"
+        >
+          Parisi
+        </option>
+        <option
+          key="Patrocinio Paulista"
+          value="Patrocinio Paulista"
+        >
+          Patrocinio Paulista
+        </option>
+        <option
+          key="Pauliceia"
+          value="Pauliceia"
+        >
+          Pauliceia
+        </option>
+        <option
+          key="Paulinia"
+          value="Paulinia"
+        >
+          Paulinia
+        </option>
+        <option
+          key="Paulistania"
+          value="Paulistania"
+        >
+          Paulistania
+        </option>
+        <option
+          key="Paulo de Faria"
+          value="Paulo de Faria"
+        >
+          Paulo de Faria
+        </option>
+        <option
+          key="Pederneiras"
+          value="Pederneiras"
+        >
+          Pederneiras
+        </option>
+        <option
+          key="Pedra Bela"
+          value="Pedra Bela"
+        >
+          Pedra Bela
+        </option>
+        <option
+          key="Pedranopolis"
+          value="Pedranopolis"
+        >
+          Pedranopolis
+        </option>
+        <option
+          key="Pedregulho"
+          value="Pedregulho"
+        >
+          Pedregulho
+        </option>
+        <option
+          key="Pedreira"
+          value="Pedreira"
+        >
+          Pedreira
+        </option>
+        <option
+          key="Pedrinhas Paulista"
+          value="Pedrinhas Paulista"
+        >
+          Pedrinhas Paulista
+        </option>
+        <option
+          key="Pedro de Toledo"
+          value="Pedro de Toledo"
+        >
+          Pedro de Toledo
+        </option>
+        <option
+          key="Penapolis"
+          value="Penapolis"
+        >
+          Penapolis
+        </option>
+        <option
+          key="Pereira Barreto"
+          value="Pereira Barreto"
+        >
+          Pereira Barreto
+        </option>
+        <option
+          key="Pereiras"
+          value="Pereiras"
+        >
+          Pereiras
+        </option>
+        <option
+          key="Peruibe"
+          value="Peruibe"
+        >
+          Peruibe
+        </option>
+        <option
+          key="Piacatu"
+          value="Piacatu"
+        >
+          Piacatu
+        </option>
+        <option
+          key="Piedade"
+          value="Piedade"
+        >
+          Piedade
+        </option>
+        <option
+          key="Pilar do Sul"
+          value="Pilar do Sul"
+        >
+          Pilar do Sul
+        </option>
+        <option
+          key="Pindamonhangaba"
+          value="Pindamonhangaba"
+        >
+          Pindamonhangaba
+        </option>
+        <option
+          key="Pindorama"
+          value="Pindorama"
+        >
+          Pindorama
+        </option>
+        <option
+          key="Pinhalzinho"
+          value="Pinhalzinho"
+        >
+          Pinhalzinho
+        </option>
+        <option
+          key="Piquerobi"
+          value="Piquerobi"
+        >
+          Piquerobi
+        </option>
+        <option
+          key="Piquete"
+          value="Piquete"
+        >
+          Piquete
+        </option>
+        <option
+          key="Piracaia"
+          value="Piracaia"
+        >
+          Piracaia
+        </option>
+        <option
+          key="Piracicaba"
+          value="Piracicaba"
+        >
+          Piracicaba
+        </option>
+        <option
+          key="Piraju"
+          value="Piraju"
+        >
+          Piraju
+        </option>
+        <option
+          key="Pirajui"
+          value="Pirajui"
+        >
+          Pirajui
+        </option>
+        <option
+          key="Pirangi"
+          value="Pirangi"
+        >
+          Pirangi
+        </option>
+        <option
+          key="Pirapora do Bom Jesus"
+          value="Pirapora do Bom Jesus"
+        >
+          Pirapora do Bom Jesus
+        </option>
+        <option
+          key="Pirapozinho"
+          value="Pirapozinho"
+        >
+          Pirapozinho
+        </option>
+        <option
+          key="Pirassununga"
+          value="Pirassununga"
+        >
+          Pirassununga
+        </option>
+        <option
+          key="Piratininga"
+          value="Piratininga"
+        >
+          Piratininga
+        </option>
+        <option
+          key="Pitangueiras"
+          value="Pitangueiras"
+        >
+          Pitangueiras
+        </option>
+        <option
+          key="Planalto"
+          value="Planalto"
+        >
+          Planalto
+        </option>
+        <option
+          key="Platina"
+          value="Platina"
+        >
+          Platina
+        </option>
+        <option
+          key="Poa"
+          value="Poa"
+        >
+          Poa
+        </option>
+        <option
+          key="Poloni"
+          value="Poloni"
+        >
+          Poloni
+        </option>
+        <option
+          key="Pompeia"
+          value="Pompeia"
+        >
+          Pompeia
+        </option>
+        <option
+          key="Pongai"
+          value="Pongai"
+        >
+          Pongai
+        </option>
+        <option
+          key="Pontal"
+          value="Pontal"
+        >
+          Pontal
+        </option>
+        <option
+          key="Pontalinda"
+          value="Pontalinda"
+        >
+          Pontalinda
+        </option>
+        <option
+          key="Pontes Gestal"
+          value="Pontes Gestal"
+        >
+          Pontes Gestal
+        </option>
+        <option
+          key="Populina"
+          value="Populina"
+        >
+          Populina
+        </option>
+        <option
+          key="Porangaba"
+          value="Porangaba"
+        >
+          Porangaba
+        </option>
+        <option
+          key="Porto Feliz"
+          value="Porto Feliz"
+        >
+          Porto Feliz
+        </option>
+        <option
+          key="Porto Ferreira"
+          value="Porto Ferreira"
+        >
+          Porto Ferreira
+        </option>
+        <option
+          key="Potim"
+          value="Potim"
+        >
+          Potim
+        </option>
+        <option
+          key="Potirendaba"
+          value="Potirendaba"
+        >
+          Potirendaba
+        </option>
+        <option
+          key="Pracinha"
+          value="Pracinha"
+        >
+          Pracinha
+        </option>
+        <option
+          key="Pradopolis"
+          value="Pradopolis"
+        >
+          Pradopolis
+        </option>
+        <option
+          key="Praia Grande"
+          value="Praia Grande"
+        >
+          Praia Grande
+        </option>
+        <option
+          key="Pratania"
+          value="Pratania"
+        >
+          Pratania
+        </option>
+        <option
+          key="Presidente Alves"
+          value="Presidente Alves"
+        >
+          Presidente Alves
+        </option>
+        <option
+          key="Presidente Bernardes"
+          value="Presidente Bernardes"
+        >
+          Presidente Bernardes
+        </option>
+        <option
+          key="Presidente Epitacio"
+          value="Presidente Epitacio"
+        >
+          Presidente Epitacio
+        </option>
+        <option
+          key="Presidente Prudente"
+          value="Presidente Prudente"
+        >
+          Presidente Prudente
+        </option>
+        <option
+          key="Presidente Venceslau"
+          value="Presidente Venceslau"
+        >
+          Presidente Venceslau
+        </option>
+        <option
+          key="Promissao"
+          value="Promissao"
+        >
+          Promissao
+        </option>
+        <option
+          key="Quadra"
+          value="Quadra"
+        >
+          Quadra
+        </option>
+        <option
+          key="Quata"
+          value="Quata"
+        >
+          Quata
+        </option>
+        <option
+          key="Queiroz"
+          value="Queiroz"
+        >
+          Queiroz
+        </option>
+        <option
+          key="Queluz"
+          value="Queluz"
+        >
+          Queluz
+        </option>
+        <option
+          key="Quintana"
+          value="Quintana"
+        >
+          Quintana
+        </option>
+        <option
+          key="Rafard"
+          value="Rafard"
+        >
+          Rafard
+        </option>
+        <option
+          key="Rancharia"
+          value="Rancharia"
+        >
+          Rancharia
+        </option>
+        <option
+          key="Redencao da Serra"
+          value="Redencao da Serra"
+        >
+          Redencao da Serra
+        </option>
+        <option
+          key="Regente Feijo"
+          value="Regente Feijo"
+        >
+          Regente Feijo
+        </option>
+        <option
+          key="Reginopolis"
+          value="Reginopolis"
+        >
+          Reginopolis
+        </option>
+        <option
+          key="Registro"
+          value="Registro"
+        >
+          Registro
+        </option>
+        <option
+          key="Restinga"
+          value="Restinga"
+        >
+          Restinga
+        </option>
+        <option
+          key="Ribeira"
+          value="Ribeira"
+        >
+          Ribeira
+        </option>
+        <option
+          key="Ribeirao Bonito"
+          value="Ribeirao Bonito"
+        >
+          Ribeirao Bonito
+        </option>
+        <option
+          key="Ribeirao Branco"
+          value="Ribeirao Branco"
+        >
+          Ribeirao Branco
+        </option>
+        <option
+          key="Ribeirao Corrente"
+          value="Ribeirao Corrente"
+        >
+          Ribeirao Corrente
+        </option>
+        <option
+          key="Ribeirao Grande"
+          value="Ribeirao Grande"
+        >
+          Ribeirao Grande
+        </option>
+        <option
+          key="Ribeirao Pires"
+          value="Ribeirao Pires"
+        >
+          Ribeirao Pires
+        </option>
+        <option
+          key="Ribeirao Preto"
+          value="Ribeirao Preto"
+        >
+          Ribeirao Preto
+        </option>
+        <option
+          key="Ribeirao do Sul"
+          value="Ribeirao do Sul"
+        >
+          Ribeirao do Sul
+        </option>
+        <option
+          key="Ribeirao dos Indios"
+          value="Ribeirao dos Indios"
+        >
+          Ribeirao dos Indios
+        </option>
+        <option
+          key="Rifaina"
+          value="Rifaina"
+        >
+          Rifaina
+        </option>
+        <option
+          key="Rincao"
+          value="Rincao"
+        >
+          Rincao
+        </option>
+        <option
+          key="Rinopolis"
+          value="Rinopolis"
+        >
+          Rinopolis
+        </option>
+        <option
+          key="Rio Claro"
+          value="Rio Claro"
+        >
+          Rio Claro
+        </option>
+        <option
+          key="Rio Grande da Serra"
+          value="Rio Grande da Serra"
+        >
+          Rio Grande da Serra
+        </option>
+        <option
+          key="Rio das Pedras"
+          value="Rio das Pedras"
+        >
+          Rio das Pedras
+        </option>
+        <option
+          key="Riolandia"
+          value="Riolandia"
+        >
+          Riolandia
+        </option>
+        <option
+          key="Riversul"
+          value="Riversul"
+        >
+          Riversul
+        </option>
+        <option
+          key="Rosana"
+          value="Rosana"
+        >
+          Rosana
+        </option>
+        <option
+          key="Roseira"
+          value="Roseira"
+        >
+          Roseira
+        </option>
+        <option
+          key="Rubiacea"
+          value="Rubiacea"
+        >
+          Rubiacea
+        </option>
+        <option
+          key="Rubineia"
+          value="Rubineia"
+        >
+          Rubineia
+        </option>
+        <option
+          key="Sabino"
+          value="Sabino"
+        >
+          Sabino
+        </option>
+        <option
+          key="Sagres"
+          value="Sagres"
+        >
+          Sagres
+        </option>
+        <option
+          key="Sales Oliveira"
+          value="Sales Oliveira"
+        >
+          Sales Oliveira
+        </option>
+        <option
+          key="Sales"
+          value="Sales"
+        >
+          Sales
+        </option>
+        <option
+          key="Salesopolis"
+          value="Salesopolis"
+        >
+          Salesopolis
+        </option>
+        <option
+          key="Salmourao"
+          value="Salmourao"
+        >
+          Salmourao
+        </option>
+        <option
+          key="Saltinho"
+          value="Saltinho"
+        >
+          Saltinho
+        </option>
+        <option
+          key="Salto Grande"
+          value="Salto Grande"
+        >
+          Salto Grande
+        </option>
+        <option
+          key="Salto de Pirapora"
+          value="Salto de Pirapora"
+        >
+          Salto de Pirapora
+        </option>
+        <option
+          key="Salto"
+          value="Salto"
+        >
+          Salto
+        </option>
+        <option
+          key="Sandovalina"
+          value="Sandovalina"
+        >
+          Sandovalina
+        </option>
+        <option
+          key="Santa Adelia"
+          value="Santa Adelia"
+        >
+          Santa Adelia
+        </option>
+        <option
+          key="Santa Albertina"
+          value="Santa Albertina"
+        >
+          Santa Albertina
+        </option>
+        <option
+          key="Santa Barbara d'Oeste"
+          value="Santa Barbara d'Oeste"
+        >
+          Santa Barbara d'Oeste
+        </option>
+        <option
+          key="Santa Branca"
+          value="Santa Branca"
+        >
+          Santa Branca
+        </option>
+        <option
+          key="Santa Clara d'Oeste"
+          value="Santa Clara d'Oeste"
+        >
+          Santa Clara d'Oeste
+        </option>
+        <option
+          key="Santa Cruz da Conceicao"
+          value="Santa Cruz da Conceicao"
+        >
+          Santa Cruz da Conceicao
+        </option>
+        <option
+          key="Santa Cruz da Esperanca"
+          value="Santa Cruz da Esperanca"
+        >
+          Santa Cruz da Esperanca
+        </option>
+        <option
+          key="Santa Cruz das Palmeiras"
+          value="Santa Cruz das Palmeiras"
+        >
+          Santa Cruz das Palmeiras
+        </option>
+        <option
+          key="Santa Cruz do Rio Pardo"
+          value="Santa Cruz do Rio Pardo"
+        >
+          Santa Cruz do Rio Pardo
+        </option>
+        <option
+          key="Santa Ernestina"
+          value="Santa Ernestina"
+        >
+          Santa Ernestina
+        </option>
+        <option
+          key="Santa Fe do Sul"
+          value="Santa Fe do Sul"
+        >
+          Santa Fe do Sul
+        </option>
+        <option
+          key="Santa Gertrudes"
+          value="Santa Gertrudes"
+        >
+          Santa Gertrudes
+        </option>
+        <option
+          key="Santa Isabel"
+          value="Santa Isabel"
+        >
+          Santa Isabel
+        </option>
+        <option
+          key="Santa Lucia"
+          value="Santa Lucia"
+        >
+          Santa Lucia
+        </option>
+        <option
+          key="Santa Maria da Serra"
+          value="Santa Maria da Serra"
+        >
+          Santa Maria da Serra
+        </option>
+        <option
+          key="Santa Mercedes"
+          value="Santa Mercedes"
+        >
+          Santa Mercedes
+        </option>
+        <option
+          key="Santa Rita d'Oeste"
+          value="Santa Rita d'Oeste"
+        >
+          Santa Rita d'Oeste
+        </option>
+        <option
+          key="Santa Rita do Passa Quatro"
+          value="Santa Rita do Passa Quatro"
+        >
+          Santa Rita do Passa Quatro
+        </option>
+        <option
+          key="Santa Rosa de Viterbo"
+          value="Santa Rosa de Viterbo"
+        >
+          Santa Rosa de Viterbo
+        </option>
+        <option
+          key="Santa Salete"
+          value="Santa Salete"
+        >
+          Santa Salete
+        </option>
+        <option
+          key="Santana da Ponte Pensa"
+          value="Santana da Ponte Pensa"
+        >
+          Santana da Ponte Pensa
+        </option>
+        <option
+          key="Santana de Parnaiba"
+          value="Santana de Parnaiba"
+        >
+          Santana de Parnaiba
+        </option>
+        <option
+          key="Santo Anastacio"
+          value="Santo Anastacio"
+        >
+          Santo Anastacio
+        </option>
+        <option
+          key="Santo Andre"
+          value="Santo Andre"
+        >
+          Santo Andre
+        </option>
+        <option
+          key="Santo Antonio da Alegria"
+          value="Santo Antonio da Alegria"
+        >
+          Santo Antonio da Alegria
+        </option>
+        <option
+          key="Santo Antonio de Posse"
+          value="Santo Antonio de Posse"
+        >
+          Santo Antonio de Posse
+        </option>
+        <option
+          key="Santo Antonio do Aracangua"
+          value="Santo Antonio do Aracangua"
+        >
+          Santo Antonio do Aracangua
+        </option>
+        <option
+          key="Santo Antonio do Jardim"
+          value="Santo Antonio do Jardim"
+        >
+          Santo Antonio do Jardim
+        </option>
+        <option
+          key="Santo Antonio do Pinhal"
+          value="Santo Antonio do Pinhal"
+        >
+          Santo Antonio do Pinhal
+        </option>
+        <option
+          key="Santo Expedito"
+          value="Santo Expedito"
+        >
+          Santo Expedito
+        </option>
+        <option
+          key="Santopolis do Aguapei"
+          value="Santopolis do Aguapei"
+        >
+          Santopolis do Aguapei
+        </option>
+        <option
+          key="Santos"
+          value="Santos"
+        >
+          Santos
+        </option>
+        <option
+          key="Sao Bento do Sapucai"
+          value="Sao Bento do Sapucai"
+        >
+          Sao Bento do Sapucai
+        </option>
+        <option
+          key="Sao Bernardo do Campo"
+          value="Sao Bernardo do Campo"
+        >
+          Sao Bernardo do Campo
+        </option>
+        <option
+          key="Sao Caetano do Sul"
+          value="Sao Caetano do Sul"
+        >
+          Sao Caetano do Sul
+        </option>
+        <option
+          key="Sao Carlos"
+          value="Sao Carlos"
+        >
+          Sao Carlos
+        </option>
+        <option
+          key="Sao Francisco"
+          value="Sao Francisco"
+        >
+          Sao Francisco
+        </option>
+        <option
+          key="Sao Joao da Boa Vista"
+          value="Sao Joao da Boa Vista"
+        >
+          Sao Joao da Boa Vista
+        </option>
+        <option
+          key="Sao Joao das Duas Pontes"
+          value="Sao Joao das Duas Pontes"
+        >
+          Sao Joao das Duas Pontes
+        </option>
+        <option
+          key="Sao Joao de Iracema"
+          value="Sao Joao de Iracema"
+        >
+          Sao Joao de Iracema
+        </option>
+        <option
+          key="Sao Joao do Pau d'Alho"
+          value="Sao Joao do Pau d'Alho"
+        >
+          Sao Joao do Pau d'Alho
+        </option>
+        <option
+          key="Sao Joaquim da Barra"
+          value="Sao Joaquim da Barra"
+        >
+          Sao Joaquim da Barra
+        </option>
+        <option
+          key="Sao Jose da Bela Vista"
+          value="Sao Jose da Bela Vista"
+        >
+          Sao Jose da Bela Vista
+        </option>
+        <option
+          key="Sao Jose do Barreiro"
+          value="Sao Jose do Barreiro"
+        >
+          Sao Jose do Barreiro
+        </option>
+        <option
+          key="Sao Jose do Rio Pardo"
+          value="Sao Jose do Rio Pardo"
+        >
+          Sao Jose do Rio Pardo
+        </option>
+        <option
+          key="Sao Jose do Rio Preto"
+          value="Sao Jose do Rio Preto"
+        >
+          Sao Jose do Rio Preto
+        </option>
+        <option
+          key="Sao Jose dos Campos"
+          value="Sao Jose dos Campos"
+        >
+          Sao Jose dos Campos
+        </option>
+        <option
+          key="Sao Lourenco da Serra"
+          value="Sao Lourenco da Serra"
+        >
+          Sao Lourenco da Serra
+        </option>
+        <option
+          key="Sao Luis do Paraitinga"
+          value="Sao Luis do Paraitinga"
+        >
+          Sao Luis do Paraitinga
+        </option>
+        <option
+          key="Sao Manuel"
+          value="Sao Manuel"
+        >
+          Sao Manuel
+        </option>
+        <option
+          key="Sao Miguel Arcanjo"
+          value="Sao Miguel Arcanjo"
+        >
+          Sao Miguel Arcanjo
+        </option>
+        <option
+          key="Sao Paulo"
+          value="Sao Paulo"
+        >
+          Sao Paulo
+        </option>
+        <option
+          key="Sao Pedro do Turvo"
+          value="Sao Pedro do Turvo"
+        >
+          Sao Pedro do Turvo
+        </option>
+        <option
+          key="Sao Pedro"
+          value="Sao Pedro"
+        >
+          Sao Pedro
+        </option>
+        <option
+          key="Sao Roque"
+          value="Sao Roque"
+        >
+          Sao Roque
+        </option>
+        <option
+          key="Sao Sebastiao da Grama"
+          value="Sao Sebastiao da Grama"
+        >
+          Sao Sebastiao da Grama
+        </option>
+        <option
+          key="Sao Sebastiao"
+          value="Sao Sebastiao"
+        >
+          Sao Sebastiao
+        </option>
+        <option
+          key="Sao Simao"
+          value="Sao Simao"
+        >
+          Sao Simao
+        </option>
+        <option
+          key="Sao Vicente"
+          value="Sao Vicente"
+        >
+          Sao Vicente
+        </option>
+        <option
+          key="Sarapui"
+          value="Sarapui"
+        >
+          Sarapui
+        </option>
+        <option
+          key="Sarutaia"
+          value="Sarutaia"
+        >
+          Sarutaia
+        </option>
+        <option
+          key="Sebastianopolis do Sul"
+          value="Sebastianopolis do Sul"
+        >
+          Sebastianopolis do Sul
+        </option>
+        <option
+          key="Serra Azul"
+          value="Serra Azul"
+        >
+          Serra Azul
+        </option>
+        <option
+          key="Serra Negra"
+          value="Serra Negra"
+        >
+          Serra Negra
+        </option>
+        <option
+          key="Serrana"
+          value="Serrana"
+        >
+          Serrana
+        </option>
+        <option
+          key="Sertaozinho"
+          value="Sertaozinho"
+        >
+          Sertaozinho
+        </option>
+        <option
+          key="Sete Barras"
+          value="Sete Barras"
+        >
+          Sete Barras
+        </option>
+        <option
+          key="Severinia"
+          value="Severinia"
+        >
+          Severinia
+        </option>
+        <option
+          key="Silveiras"
+          value="Silveiras"
+        >
+          Silveiras
+        </option>
+        <option
+          key="Socorro"
+          value="Socorro"
+        >
+          Socorro
+        </option>
+        <option
+          key="Sorocaba"
+          value="Sorocaba"
+        >
+          Sorocaba
+        </option>
+        <option
+          key="Sud Mennucci"
+          value="Sud Mennucci"
+        >
+          Sud Mennucci
+        </option>
+        <option
+          key="Sumare"
+          value="Sumare"
+        >
+          Sumare
+        </option>
+        <option
+          key="Suzanapolis"
+          value="Suzanapolis"
+        >
+          Suzanapolis
+        </option>
+        <option
+          key="Suzano"
+          value="Suzano"
+        >
+          Suzano
+        </option>
+        <option
+          key="Tabapua"
+          value="Tabapua"
+        >
+          Tabapua
+        </option>
+        <option
+          key="Tabatinga"
+          value="Tabatinga"
+        >
+          Tabatinga
+        </option>
+        <option
+          key="Taboao da Serra"
+          value="Taboao da Serra"
+        >
+          Taboao da Serra
+        </option>
+        <option
+          key="Taciba"
+          value="Taciba"
+        >
+          Taciba
+        </option>
+        <option
+          key="Taguai"
+          value="Taguai"
+        >
+          Taguai
+        </option>
+        <option
+          key="Taiacu"
+          value="Taiacu"
+        >
+          Taiacu
+        </option>
+        <option
+          key="Taiuva"
+          value="Taiuva"
+        >
+          Taiuva
+        </option>
+        <option
+          key="Tambau"
+          value="Tambau"
+        >
+          Tambau
+        </option>
+        <option
+          key="Tanabi"
+          value="Tanabi"
+        >
+          Tanabi
+        </option>
+        <option
+          key="Tapirai"
+          value="Tapirai"
+        >
+          Tapirai
+        </option>
+        <option
+          key="Tapiratiba"
+          value="Tapiratiba"
+        >
+          Tapiratiba
+        </option>
+        <option
+          key="Taquaral"
+          value="Taquaral"
+        >
+          Taquaral
+        </option>
+        <option
+          key="Taquaritinga"
+          value="Taquaritinga"
+        >
+          Taquaritinga
+        </option>
+        <option
+          key="Taquarituba"
+          value="Taquarituba"
+        >
+          Taquarituba
+        </option>
+        <option
+          key="Taquarivai"
+          value="Taquarivai"
+        >
+          Taquarivai
+        </option>
+        <option
+          key="Tarabai"
+          value="Tarabai"
+        >
+          Tarabai
+        </option>
+        <option
+          key="Taruma"
+          value="Taruma"
+        >
+          Taruma
+        </option>
+        <option
+          key="Tatui"
+          value="Tatui"
+        >
+          Tatui
+        </option>
+        <option
+          key="Taubate"
+          value="Taubate"
+        >
+          Taubate
+        </option>
+        <option
+          key="Tejupa"
+          value="Tejupa"
+        >
+          Tejupa
+        </option>
+        <option
+          key="Teodoro Sampaio"
+          value="Teodoro Sampaio"
+        >
+          Teodoro Sampaio
+        </option>
+        <option
+          key="Terra Roxa"
+          value="Terra Roxa"
+        >
+          Terra Roxa
+        </option>
+        <option
+          key="Tiete"
+          value="Tiete"
+        >
+          Tiete
+        </option>
+        <option
+          key="Timburi"
+          value="Timburi"
+        >
+          Timburi
+        </option>
+        <option
+          key="Torre de Pedra"
+          value="Torre de Pedra"
+        >
+          Torre de Pedra
+        </option>
+        <option
+          key="Torrinha"
+          value="Torrinha"
+        >
+          Torrinha
+        </option>
+        <option
+          key="Trabiju"
+          value="Trabiju"
+        >
+          Trabiju
+        </option>
+        <option
+          key="Tremembe"
+          value="Tremembe"
+        >
+          Tremembe
+        </option>
+        <option
+          key="Tres Fronteiras"
+          value="Tres Fronteiras"
+        >
+          Tres Fronteiras
+        </option>
+        <option
+          key="Tuiuti"
+          value="Tuiuti"
+        >
+          Tuiuti
+        </option>
+        <option
+          key="Tupa"
+          value="Tupa"
+        >
+          Tupa
+        </option>
+        <option
+          key="Tupi Paulista"
+          value="Tupi Paulista"
+        >
+          Tupi Paulista
+        </option>
+        <option
+          key="Turiuba"
+          value="Turiuba"
+        >
+          Turiuba
+        </option>
+        <option
+          key="Turmalina"
+          value="Turmalina"
+        >
+          Turmalina
+        </option>
+        <option
+          key="Ubarana"
+          value="Ubarana"
+        >
+          Ubarana
+        </option>
+        <option
+          key="Ubatuba"
+          value="Ubatuba"
+        >
+          Ubatuba
+        </option>
+        <option
+          key="Ubirajara"
+          value="Ubirajara"
+        >
+          Ubirajara
+        </option>
+        <option
+          key="Uchoa"
+          value="Uchoa"
+        >
+          Uchoa
+        </option>
+        <option
+          key="Uniao Paulista"
+          value="Uniao Paulista"
+        >
+          Uniao Paulista
+        </option>
+        <option
+          key="Urania"
+          value="Urania"
+        >
+          Urania
+        </option>
+        <option
+          key="Uru"
+          value="Uru"
+        >
+          Uru
+        </option>
+        <option
+          key="Urupes"
+          value="Urupes"
+        >
+          Urupes
+        </option>
+        <option
+          key="Valentim Gentil"
+          value="Valentim Gentil"
+        >
+          Valentim Gentil
+        </option>
+        <option
+          key="Valinhos"
+          value="Valinhos"
+        >
+          Valinhos
+        </option>
+        <option
+          key="Valparaiso"
+          value="Valparaiso"
+        >
+          Valparaiso
+        </option>
+        <option
+          key="Vargem Grande Paulista"
+          value="Vargem Grande Paulista"
+        >
+          Vargem Grande Paulista
+        </option>
+        <option
+          key="Vargem Grande do Sul"
+          value="Vargem Grande do Sul"
+        >
+          Vargem Grande do Sul
+        </option>
+        <option
+          key="Vargem"
+          value="Vargem"
+        >
+          Vargem
+        </option>
+        <option
+          key="Varzea Paulista"
+          value="Varzea Paulista"
+        >
+          Varzea Paulista
+        </option>
+        <option
+          key="Vera Cruz"
+          value="Vera Cruz"
+        >
+          Vera Cruz
+        </option>
+        <option
+          key="Vinhedo"
+          value="Vinhedo"
+        >
+          Vinhedo
+        </option>
+        <option
+          key="Viradouro"
+          value="Viradouro"
+        >
+          Viradouro
+        </option>
+        <option
+          key="Vista Alegre do Alto"
+          value="Vista Alegre do Alto"
+        >
+          Vista Alegre do Alto
+        </option>
+        <option
+          key="Vitoria Brasil"
+          value="Vitoria Brasil"
+        >
+          Vitoria Brasil
+        </option>
+        <option
+          key="Votorantim"
+          value="Votorantim"
+        >
+          Votorantim
+        </option>
+        <option
+          key="Votuporanga"
+          value="Votuporanga"
+        >
+          Votuporanga
+        </option>
+        <option
+          key="Zacarias"
+          value="Zacarias"
+        >
+          Zacarias
+        </option>
+      </select>
+    </div>
+    <div
+      className="field-wrapper"
+    >
+      <label
+        htmlFor="level"
+      >
+        Deputada(o)
+      </label>
+      <select
+        className="input"
+        id="level"
+        name="level"
+        onChange={[Function]}
+        value="federal"
+      >
+        <option
+          value="federal"
+        >
+          Federal
+        </option>
+        <option
+          value="estadual"
+        >
+          Estadual
+        </option>
+      </select>
+    </div>
+    <div
+      className="field-wrapper"
+    >
+      <label
+        htmlFor="cnpj"
+      >
+        CNPJ
+      </label>
+      <input
+        className="input"
+        id="cnpj"
+        name="cnpj"
+        onChange={[Function]}
+        required={true}
+        type="text"
+        value=""
+      />
+    </div>
+    <div
+      className="field-wrapper"
+    >
+      <label
+        htmlFor="number"
+      >
+        Número
+      </label>
+      <input
+        className="input"
+        id="number"
+        name="number"
+        onChange={[Function]}
+        required={true}
+        type="text"
+        value=""
+      />
+    </div>
+    <div
+      className="field-wrapper"
+    >
+      <label
+        htmlFor="politicalParty"
+      >
+        Partido
+      </label>
+      <select
+        className="input"
+        id="politicalParty"
+        name="politicalParty"
+        onChange={[Function]}
+        value=""
+      >
+        <option
+          value="AVANTE"
+        >
+           AVANTE - Avante - 70 
+        </option>
+        <option
+          value="DC"
+        >
+           DC - Democracia Cristã - 27 
+        </option>
+        <option
+          value="DEM"
+        >
+           DEM - Democratas - 25 
+        </option>
+        <option
+          value="MDB"
+        >
+           MDB - Movimento Democrático Brasileiro - 15 
+        </option>
+        <option
+          value="PCB"
+        >
+           PCB - Partido Comunista Brasileiro - 21 
+        </option>
+        <option
+          value="PCdoB"
+        >
+           PCdoB - Partido Comunista do Brasil - 65 
+        </option>
+        <option
+          value="PCO"
+        >
+           PCO - Partido da Causa Operária - 29 
+        </option>
+        <option
+          value="PMN"
+        >
+           PMN - Partido da Mobilização Nacional - 33 
+        </option>
+        <option
+          value="PMB"
+        >
+           PMB - Partido da Mulher Brasileira[59] - 35 
+        </option>
+        <option
+          value="PR"
+        >
+          PR - Partido da República - 22 
+        </option>
+        <option
+          value="PSDB"
+        >
+          PSDB - Partido da Social Democracia Brasileira - 45 
+        </option>
+        <option
+          value="PDT"
+        >
+          PDT - Partido Democrático Trabalhista - 12 
+        </option>
+        <option
+          value="PT"
+        >
+          PT - Partido dos Trabalhadores - 13 
+        </option>
+        <option
+          value="PHS"
+        >
+          PHS - Partido Humanista da Solidariedade - 31 
+        </option>
+        <option
+          value="NOVO"
+        >
+          NOVO - Partido Novo[65] - 30 
+        </option>
+        <option
+          value="PPL"
+        >
+          PPL - Partido Pátria Livre - 54 
+        </option>
+        <option
+          value="PPS"
+        >
+          PPS - Partido Popular Socialista - 23 
+        </option>
+        <option
+          value="PP"
+        >
+          PP - Partido Progressista - 11 
+        </option>
+        <option
+          value="PRTB"
+        >
+          PRTB - Partido Renovador Trabalhista Brasileiro - 28 
+        </option>
+        <option
+          value="PRB"
+        >
+          PRB - Partido Republicano Brasileiro - 10 
+        </option>
+        <option
+          value="PROS"
+        >
+          PROS - Partido Republicano da Ordem Social - 90 
+        </option>
+        <option
+          value="PRP"
+        >
+          PRP - Partido Republicano Progressista - 44 
+        </option>
+        <option
+          value="PSC"
+        >
+          PSC - Partido Social Cristão - 20 
+        </option>
+        <option
+          value="PSD"
+        >
+          PSD - Partido Social Democrático - 55 
+        </option>
+        <option
+          value="PSL"
+        >
+          PSL - Partido Social Liberal - 17 
+        </option>
+        <option
+          value="PSOL"
+        >
+          PSOL - Partido Socialismo e Liberdade - 50 
+        </option>
+        <option
+          value="PSB"
+        >
+          PSB - Partido Socialista Brasileiro - 40 
+        </option>
+        <option
+          value="PSTU"
+        >
+          PSTU - Partido Socialista dos Trabalhadores Unificado - 16
+           
+        </option>
+        <option
+          value="PTB"
+        >
+          PTB - Partido Trabalhista Brasileiro - 14 
+        </option>
+        <option
+          value="PTC"
+        >
+          PTC - Partido Trabalhista Cristão - 36 
+        </option>
+        <option
+          value="PV"
+        >
+          PV - Partido Verde - 43 
+        </option>
+        <option
+          value="PATRI"
+        >
+          PATRI - Patriota - 51 
+        </option>
+        <option
+          value="PODE"
+        >
+          PODE - Podemos - 19 
+        </option>
+        <option
+          value="REDE"
+        >
+          REDE - Rede Sustentabilidade - 18 
+        </option>
+        <option
+          value="SD"
+        >
+          SD - Solidariedade - 77 
+        </option>
+      </select>
+    </div>
+    <div
+      className="field-wrapper"
+    >
+      <label
+        htmlFor="description"
+      >
+        Descrição 
+        <small>
+          (opcional)
+        </small>
+      </label>
+      <textarea
+        className="input"
+        id="description"
+        maxLength={500}
+        name="description"
+        onChange={[Function]}
+      />
+    </div>
+    <footer
+      className="complete-signup__footer"
+    >
+      <button
+        className="btn btn-primary"
+        type="submit"
+      >
+        Salvar
+      </button>
+    </footer>
+  </form>
+</PageLayout>
+`;

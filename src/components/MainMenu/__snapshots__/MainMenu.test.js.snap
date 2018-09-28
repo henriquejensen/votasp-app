@@ -1,0 +1,112 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MainMenu should match a snapshot with currentUser 1`] = `
+<nav
+  className="navigation-menu"
+>
+  <HamburgerMenu
+    onClick={[Function]}
+  />
+  <ul
+    className="navigation-menu"
+  >
+    <li
+      className="navigation-menu__list"
+    >
+      <NavLink
+        activeClassName="active"
+        aria-current="page"
+        className="navigation-menu__link"
+        to="/app/questionario/1"
+      >
+        Questões
+      </NavLink>
+    </li>
+    <li
+      className="navigation-menu__list"
+    >
+      <NavLink
+        activeClassName="active"
+        aria-current="page"
+        className="navigation-menu__link"
+        to="/como-funciona"
+      >
+        Como funciona
+      </NavLink>
+    </li>
+    <li
+      className="navigation-menu__list"
+    >
+      <NavLink
+        activeClassName="active"
+        aria-current="page"
+        className="navigation-menu__link"
+        to="/app/ranking"
+      >
+        Ver meu ranking
+      </NavLink>
+    </li>
+    <li
+      className="navigation-menu__list"
+    >
+      <NavLink
+        activeClassName="active"
+        aria-current="page"
+        className="navigation-menu__link"
+        to="/app/candidatos-e-candidatas"
+      >
+        Candidatas e Candidatos
+      </NavLink>
+    </li>
+    <li
+      className="navigation-menu__list"
+    >
+      <button
+        className="navigation-menu__link"
+        onClick={[Function]}
+      >
+        Sair
+      </button>
+    </li>
+    <li
+      className="navigation-menu__list"
+    >
+      <a
+        className="navigation-menu__link btn-contribua btn btn-primary"
+        href="https://www.paypal-brasil.com.br/doe/doecompaypal?qc=&qn=Minha+&qs=25#minha-campinas"
+        target="_blank"
+      >
+        Contribua
+      </a>
+    </li>
+  </ul>
+</nav>
+`;
+
+exports[`MainMenu should match a snapshot with no currentUser 1`] = `
+<nav
+  className="navigation-menu"
+>
+  <HamburgerMenu
+    onClick={[Function]}
+  />
+  <ul
+    className="navigation-menu"
+  >
+    <div>
+      <li
+        className="navigation-menu__list"
+      >
+        <NavLink
+          activeClassName="active"
+          aria-current="page"
+          className="navigation-menu__link"
+          to="/app"
+        >
+          Quero participar!
+        </NavLink>
+      </li>
+    </div>
+  </ul>
+</nav>
+`;
